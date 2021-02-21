@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'es-ES' }}">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% comment %} Jekyll SEO plugin. Displays `<title>` and social meta tags {% endcomment %}
+      {%- seo -%}
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7688318/6862832/css/fonts.css">
+    {%- feed_meta -%}
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    {% comment %} Place favicon.ico in the root directory {% endcomment %}
+    <meta name="theme-color" content="#fafafa" />
+    {%- include google-analytics.html -%}
+  </head>
+  <body>
+    <div class="container">
+      {%- include header.html -%}
+      {{ content}}
+      {%- include footer.html -%}
+    </div>
+    {%- include newsletter-js.html -%}
+  </body>
+</html>
+
+  
+  
+  
+  
