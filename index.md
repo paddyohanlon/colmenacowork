@@ -83,7 +83,7 @@ envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=346658
       width="160"
       loading="lazy"
     />
-    <figcaption>Paddy, irlandés afincado en Prado desde 2013. Padre de una pequeña
+    <figcaption>Paddy, irlandés afincado en Prado desde 2014. Padre de una pequeña
   pradense, Ária y programador.</figcaption>
   </figure>
 
