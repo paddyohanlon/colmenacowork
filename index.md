@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coworking Rural
+title: Coworking en Prado del Rey
 ---
 
 <h1 class="main-heading">Coworking <span class="prado"><span class="en">en</span> Prado del Rey</span></h1>

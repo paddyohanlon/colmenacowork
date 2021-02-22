@@ -1,12 +1,13 @@
 url: "https://colmenacowork.es" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "La Colmena | Coworking Rural" # the name of your site, e.g. ACME Corp.
+title: "La Colmena Coworking Rural" # the name of your site, e.g. ACME Corp.
 lang: "es_ES"
 
-tagline: "Espacio de coworking in Prado del Rey, Cádiz"
+tagline: "Coworking en Prado del Rey"
 permalink: /blog/:categories/:year/:month/:day/:title
 
-description: "La Colmena sera un espacio de coworking rural, situado en Prado del Rey, Cádiz, Andalucía, abriendo se en 2021"
+description: "Siempre y cuando la situación de COVID mejore, La Colmena Coworking en Prado del Rey
+tiene previsto abrir sus puertas en 2021."
 twitter:
   card: summary_large_image
 
