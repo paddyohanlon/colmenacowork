@@ -8,6 +8,7 @@ image: social.png
 
 ¿Trabajas remotamente en Prado del Rey y estás interesado/a
 en un espacio compartido?
+{: .large }
 
 Estamos planeando en abrir **La Colmena Coworking**, una oficina compartida en
 Prado del Rey. Un lugar donde compartir ideas, desarrollar y mejorar tus

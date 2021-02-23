@@ -10,6 +10,13 @@
 $typeface-heading: "Sentinel SSm A", "Sentinel SSm B", georgia, serif;
 $typeface-body: "Gotham Narrow SSm A", "Gotham Narrow SSm B", helvetica, arial, sans-serif;
 
+$font-size-h1: 3.052rem;
+$font-size-h2: 2.441rem;
+$font-size-h3: 1.953rem;
+$font-size-h4: 1.563rem;
+$font-size-h5: 1.25rem;
+$font-size-small: 0.8rem;
+
 $border-radius: 3px;
 $hover-transition-time: 0.25s;
 
@@ -34,6 +41,10 @@ body {
 
 p {
   margin-bottom: 1rem;
+
+  &.large {
+    font-size: $font-size-h5;
+  }
 }
 
 h1,
@@ -52,32 +63,24 @@ h6 {
 
 h1 {
   margin-top: 0;
-  font-size: 3.052rem;
+  font-size: $font-size-h1;
 }
-
-$font-size-h2: 2.441rem;
 
 h2 {
   font-size: $font-size-h2;
 }
-
-$font-size-h3: 1.953rem;
 
 h3 {
   font-size: $font-size-h3;
 }
 
 h4 {
-  font-size: 1.563rem;
+  font-size: $font-size-h4;
 }
-
-$font-size-h5: 1.25rem;
 
 h5 {
   font-size: $font-size-h5;
 }
-
-$font-size-small: 0.8rem;
 
 small,
 .text_small {
@@ -86,24 +89,28 @@ small,
 
 a,
 a:link {
-  border-bottom: 1px solid transparent;
   color: var(--color-brand);
-  text-decoration: none;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 1px;
+  text-decoration-color: var(--color-orange);
+  transition: all $hover-transition-time;
 }
 
 a:hover,
 a:focus,
 a:active {
-  border-color: var(--color-orange);
+  text-decoration-color: var(--color-maroon);
 }
 
 blockquote {
+  font-size: $font-size-h5;
   font-style: italic;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 600px;
+  max-width: 75ch;
 }
 
 .header {
