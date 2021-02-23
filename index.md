@@ -11,7 +11,7 @@ en un espacio compartido?
 
 Estamos planeando en abrir **La Colmena Coworking**, una oficina compartida en
 Prado del Rey. Un lugar donde compartir ideas, desarrollar y mejorar tus
-ideas de negocio y tener algo de interacción social, algo que siempre se
+ideas de negocio y tener interacción social, algo que siempre se
 echa de menos.
 
 <img
@@ -125,6 +125,6 @@ asequible posible.
 
 ### ¿Dónde se encuentra?
 
-La Colmena está situada en un pueblo de la sierra de Cádiz, Prado del
+La Colmena estará situada en un pueblo de la sierra de Cádiz, Prado del
 Rey, con un paisaje de naturaleza increíble. Seguimos buscando un
 lugar en esta localidad, así que si conoces algún sitio, ¡háznoslo saber!
