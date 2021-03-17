@@ -10,7 +10,7 @@ image: social.png
 en un espacio compartido?
 {: .large }
 
-Estamos planeando en abrir **La Colmena Coworking**, una oficina compartida en
+Estamos planeando abrir **La Colmena Coworking**, una oficina compartida en
 Prado del Rey. Un lugar donde compartir ideas, desarrollar y mejorar tus
 ideas de negocio y tener interacción social, algo que siempre se
 echa de menos.
@@ -25,8 +25,7 @@ echa de menos.
   loading="lazy"
 />
 
-Siempre y cuando la situación de COVID mejore, La Colmena Coworking
-tiene previsto abrir sus puertas en 2021. Este espacio será creado como
+La Colmena Coworking tiene previsto abrir sus puertas en 2021, siempre y cuando la situación de COVID mejore. Este espacio será creado como
 una asociación sin ánimo de lucro para poder hacerlo lo más asequible
 posible y para que cualquier beneficio que genere, sea para mejorar el
 espacio en el que trabajamos.
@@ -40,7 +39,7 @@ Nuestra intención es proporcionar:
   invierno y fresco en verano, para que puedas trabajar de forma
   cómoda y productiva durante todo el año.
 - Buena conexión a internet.
-- Sala de video conferencia para eventos, reuniones o llamadas
+- Sala de videoconferencia para eventos, reuniones o llamadas
   privadas.
 - Eventos comunitarios para conocerse, compartir ideas y apoyarse.
 - Un espacio seguro y flexible donde poder trabajar las 24 horas, los
@@ -105,7 +104,7 @@ envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=346658
 ### ¿Qué es un coworking space?
 
 Un **coworking space** es un espacio diáfano, de planta abierta con oficinas
-compartidas, donde cualquiera pues alquilar un escritorio y ir a trabajar.
+compartidas, donde cualquiera puede alquilar un escritorio e ir a trabajar.
 Sin embargo, es más que eso, es un lugar para crear una comunidad,
 donde se puedan compartir ideas y apoyarse mutuamente.
 

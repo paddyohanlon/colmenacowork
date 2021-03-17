@@ -6,8 +6,7 @@ lang: "es_ES"
 tagline: "Coworking en Prado del Rey"
 permalink: /blog/:categories/:year/:month/:day/:title
 
-description: "Siempre y cuando la situación de COVID mejore, La Colmena Coworking en Prado del Rey
-tiene previsto abrir sus puertas en 2021."
+description: "Estamos planeando abrir La Colmena Coworking, una oficina compartida en Prado del Rey. Un lugar donde compartir ideas, desarrollar y mejorar tus ideas de negocio"
 twitter:
   card: summary_large_image
 
