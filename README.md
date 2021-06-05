@@ -2,7 +2,11 @@
 
 La Colmena sera un espacio de coworking rural, situado en Prado del Rey, Cádiz, Andalucía, abriendo se en 2021.
 
-Hecho con [Jekyll](https://jekyllrb.com/).
+Web hecho con [Jekyll](https://jekyllrb.com/).
+
+## Translations
+
+Jekyll has been made multilingual mostly following [this approach](https://sylvaindurand.org/making-jekyll-multilingual/).
 
 ## Running locally
 
@@ -23,7 +27,3 @@ Build for production:
 ```bash
 bundle exec jekyll build
 ```
-
-## Theme Customization
-
-TODO

@@ -1,7 +1,7 @@
 url: "https://colmenacowork.es" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "La Colmena Coworking Rural" # the name of your site, e.g. ACME Corp.
-lang: "es_ES"
+lang: "es"
 
 tagline: "Coworking en Prado del Rey"
 permalink: /blog/:categories/:year/:month/:day/:title
@@ -20,5 +20,11 @@ autoprefixer:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-autoprefixer
+
+# Translations
+t:
+  es:
+    ilustraciones_por: "Ilustraciones por"
+  en:
+    ilustraciones_por: "Illustrations by"

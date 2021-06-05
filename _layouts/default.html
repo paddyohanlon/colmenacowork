@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'es-ES' }}">
+<html lang="{{ page.lang | default: site.lang }}">
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,6 +7,10 @@
     <title>{{ page.title }} - {{ site.title }}</title>
     {% comment %} Jekyll SEO plugin. Displays `<title>` and social meta tags {% endcomment %}
       {%- seo -%}
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+      <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    {% endfor %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7688318/6862832/css/fonts.css">
     {%- feed_meta -%}
