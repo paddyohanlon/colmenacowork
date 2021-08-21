@@ -4,7 +4,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
     {% comment %} Jekyll SEO plugin. Displays `<title>` and social meta tags {% endcomment %}
     {%- seo -%}
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}

@@ -1,19 +1,18 @@
 ---
 layout: default
-title: Coworking en Prado del Rey
+title: Coworking Rural en Prado del Rey, Cádiz
 image: social.png
 lang: es
 ref: home
 ---
 
-<h1 class="main-heading">Coworking <span class="prado"><span class="en">en</span> Prado del Rey</span></h1>
+<h1 class="main-heading">Espacio de Coworking <span class="prado"><span class="en">en</span> Prado del Rey, Cádiz</span></h1>
 
-¿Trabajas remotamente en Prado del Rey y estás interesado/a
-en un espacio compartido?
+¿Trabajas remotamente y estás interesado/a un espacio de coworking?
 {: .large }
 
 Estamos planeando abrir **La Colmena Coworking**, una oficina compartida en
-Prado del Rey. Un lugar donde compartir ideas, desarrollar y mejorar tus
+la Sierra de Cádiz. Un espacio coworking donde compartir ideas, desarrollar y mejorar tus
 ideas de negocio y tener interacción social, algo que siempre se
 echa de menos.
 
@@ -27,7 +26,7 @@ echa de menos.
   loading="lazy"
 />
 
-La Colmena Coworking tiene previsto abrir sus puertas en 2021, siempre y cuando la situación de COVID mejore. Este espacio será creado como
+La Colmena Coworking tiene previsto abrir sus puertas en 2021, siempre y cuando la situación de COVID mejore. Este espacio de coworking será creado como
 una asociación sin ánimo de lucro para poder hacerlo lo más asequible
 posible y para que cualquier beneficio que genere, sea para mejorar el
 espacio en el que trabajamos.
@@ -61,7 +60,7 @@ Nuestra intención es proporcionar:
 ## ¿Te parece interesante? ¡Háznoslo saber!
 
 Estamos intentando estimar cuántas personas podrían estar interesadas
-en este proyecto. Si estás interesado en el coworking de Prado del Rey,
+en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey,
 regístrate a continuación.
 
 Si por el contrario no estás interesado pero
@@ -103,14 +102,14 @@ envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=346658
   </figure>
 </div>
 
-### ¿Qué es un coworking space?
+### ¿Qué es un espacio de coworking?
 
-Un **coworking space** es un espacio diáfano, de planta abierta con oficinas
+Un **espacio de coworking** es un espacio diáfano, de planta abierta con oficinas
 compartidas, donde cualquiera puede alquilar un escritorio e ir a trabajar.
 Sin embargo, es más que eso, es un lugar para crear una comunidad,
 donde se puedan compartir ideas y apoyarse mutuamente.
 
-> “El coworking se trata de crear un lugar agradable para trabajar y, como
+> “El espacio coworking se trata de crear un lugar agradable para trabajar y, como
 > resultado, una mejor manera de trabajar. Los espacios abiertos de trabajo
 > proporcionan mucho más que una oficina. Son centros comunitarios,
 > lugares de reuniones. Cuando una persona alquila un escritorio o una
@@ -127,6 +126,6 @@ asequible posible.
 
 ### ¿Dónde se encuentra?
 
-La Colmena estará situada en un pueblo de la sierra de Cádiz, Prado del
+La Colmena estará situada en un pueblo de la Sierra de Cádiz, Prado del
 Rey, con un paisaje de naturaleza increíble. Seguimos buscando un
 lugar en esta localidad, así que si conoces algún sitio, ¡háznoslo saber!
