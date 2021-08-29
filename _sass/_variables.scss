@@ -1,0 +1,25 @@
+:root {
+  --color-black: #111;
+  --color-yellow: #ffc712;
+  --color-orange: #f69522;
+  --color-maroon: #42120e;
+  --color-brand: #42120e;
+  --color-brand-light: #f69522;
+}
+
+$typeface-heading: "Sentinel SSm A", "Sentinel SSm B", georgia, serif;
+$typeface-body: "Gotham Narrow SSm A", "Gotham Narrow SSm B", helvetica, arial, sans-serif;
+
+$font-size-h1: 3.052rem;
+$font-size-h2: 2.441rem;
+$font-size-h3: 1.953rem;
+$font-size-h4: 1.563rem;
+$font-size-h5: 1.25rem;
+$font-size-small: 0.8rem;
+
+$border-radius: 3px;
+$hover-transition-time: 0.25s;
+
+// Breakpoints
+$break-medium-max: 899px;
+$break-medium: 900px;

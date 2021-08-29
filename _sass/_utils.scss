@@ -1,0 +1,48 @@
+.list-reset {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@mixin text-assistive {
+  -webkit-clip-path: polygon(0 0, 0 0, 0 0, 0 0);
+  clip-path: polygon(0 0, 0 0, 0 0, 0 0);
+  box-sizing: border-box;
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.text-assistive {
+  @include text-assistive;
+}
+
+.is-invisible-mobile {
+  @media only screen and (max-width: $break-medium-max) {
+    @include text-assistive;
+  }
+}
+
+.text-assistive.display-at-top-on-focus {
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.text-assistive.display-at-top-on-focus:focus {
+  -webkit-clip-path: none;
+  clip-path: none;
+  z-index: 999;
+  height: 80px;
+  line-height: 80px;
+  background: white;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: var(--color-maroon);
+  text-align: center;
+}
+
+#skip-link-target:focus {
+  background: var(--color-brand);
+  color: white;
+}

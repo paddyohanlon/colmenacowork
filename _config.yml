@@ -3,6 +3,10 @@ baseurl: ""
 title: "La Colmena Espacio de Coworking"
 lang: "es"
 
+# temp for faster building
+exclude:
+  - assets/fonts
+
 tagline: "Espacio de Coworking en Prado del Rey, Cádiz"
 permalink: /blog/:categories/:year/:month/:day/:title
 
@@ -25,6 +29,30 @@ plugins:
 # Translations
 t:
   es:
-    ilustraciones_por: "Ilustraciones por"
+    logo_link_title_attr: "Inicio"
+    toggle_menu_aria_label: "Abrir o cerrar navigación"
+    footer_tagline: "Espacio de coworking en Prado del Rey, Cádiz"
+    illustrations_by: "Ilustraciones por"
+    logo_alt: "Logo de La Colmena espacio de coworking"
+    skip_link_anchor_text: "Saltar al contenido principal"
+    skip_link_target_anchor_text: "Inicio del contenido principal"
+    main_menu_aria_label: "Navigación principal"
+    language_switcher_aria_label: "Cambiar idioma"
+    main_menu:
+      coworking_que_es:
+        name: "Coworking que es?"
+        url: "/coworking-que-es"
   en:
-    ilustraciones_por: "Illustrations by"
+    logo_link_title_attr: "Home"
+    toggle_menu_aria_label: "Open or close menu"
+    footer_tagline: "Coworking space en Prado del Rey, Cádiz"
+    illustrations_by: "Illustrations by"
+    logo_alt: "La Colmena coworking space logo"
+    skip_link_anchor_text: "Skip to main content"
+    skip_link_target_anchor_text: "Start of main content"
+    main_menu_aria_label: "Main menu"
+    language_switcher_aria_label: "Change language"
+    main_menu:
+      coworking_que_es:
+        name: "What is coworking?"
+        url: "/what-is-coworking"

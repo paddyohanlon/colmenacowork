@@ -1,19 +1,52 @@
 <header class="header">
-  <a href="/">
-    <img
-      class="logo"
-      src="/assets/images/logo.png"
-      srcset="/assets/images/logo@2x.png 2x"
-      alt="La Colmena Coworking logo"
-      height="100"
-      width="102"
-    />
+  <a href="#skip-link-target" class="text-assistive display-at-top-on-focus"
+    >{{ site.t[page.lang].skip_link_anchor_text }}</a
+  >
+  <!-- logo -->
+  <div class="logo">
+    <a href="/" title="{{ site.t[page.lang].logo_link_title_attr }}">
+      <img
+        src="/assets/images/logo-banner.png"
+        srcset="/assets/images/logo-banner@2x.png 2x"
+        alt="{{ site.t[page.lang].logo_alt }}"
+        height="41"
+        width="213"
+      />
+    </a>
+  </div>
+
+  <!-- toggle nav -->
+  <a
+    role="button"
+    id="navbar-burger"
+    class="navbar-burger"
+    aria-label="{{ site.t[page.lang].toggle_menu_aria_label }}"
+    aria-expanded="false"
+  >
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
+    <span aria-hidden="true"></span>
   </a>
-  <ul class="language-switcher">
-    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %} {% for page in pages %}
-    <li>
-      <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-    </li>
-    {% endfor %}
-  </ul>
+
+  <!-- nav -->
+  <nav id="main-menu" class="is-invisible-mobile" aria-label="{{ site.t[page.lang].main_menu_aria_label }}">
+    <ul class="main-menu-items list-reset">
+      <li>
+        <a href="{{ site.t[page.lang].main_menu.coworking_que_es.url }}"
+        {%- if page.url == site.t[page.lang].main_menu.coworking_que_es.url -%} class="is-active"{%- endif
+          -%}>{{ site.t[page.lang].main_menu.coworking_que_es.name }}</a
+        >
+      </li>
+      <li></li>
+    </ul>
+
+    <!-- language switcher -->
+    <ul class="language-switcher list-reset" aria-label="{{ site.t[page.lang].language_switcher_aria_label}}">
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %} {% for page in pages %}
+      <li>
+        <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
 </header>

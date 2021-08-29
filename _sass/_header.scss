@@ -1,0 +1,122 @@
+.header {
+  margin-bottom: 2em;
+  padding: 10px 16px;
+
+  @media only screen and (min-width: $break-medium) {
+    display: flex;
+  }
+}
+
+// logo
+.logo {
+  @media only screen and (min-width: $break-medium) {
+    margin-right: 2em;
+  }
+
+  img {
+    display: block;
+    height: auto;
+    max-width: 230px;
+  }
+}
+
+// nav
+#main-menu {
+  margin-left: 37px;
+  width: 100%;
+
+  @media only screen and (min-width: $break-medium) {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0;
+  }
+
+  a {
+    display: block;
+    padding: 11px 16px;
+
+    &.is-active {
+      font-weight: bold;
+    }
+  }
+}
+
+.main-menu-items {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 100%;
+
+  @media only screen and (min-width: $break-medium) {
+    margin-right: 3em;
+  }
+}
+
+// language switcher
+.language-switcher {
+  display: flex;
+  height: 100%;
+}
+
+.es:lang(es),
+.en:lang(en) {
+  font-weight: bold;
+}
+
+// Menu hamburger toggle
+.navbar-burger {
+  color: var(--color-maroon);
+  cursor: pointer;
+  display: block;
+  height: 3.25rem;
+  position: relative;
+  width: 3.25rem;
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  @media only screen and (min-width: $break-medium) {
+    display: none;
+  }
+}
+
+.navbar-burger span {
+  background-color: currentColor;
+  display: block;
+  height: 1px;
+  left: calc(50% - 8px);
+  position: absolute;
+  transform-origin: center;
+  transition-duration: 86ms;
+  transition-property: background-color, opacity, transform;
+  transition-timing-function: ease-out;
+  width: 16px;
+}
+
+.navbar-burger span:nth-child(1) {
+  top: calc(50% - 6px);
+}
+
+.navbar-burger span:nth-child(2) {
+  top: calc(50% - 1px);
+}
+
+.navbar-burger span:nth-child(3) {
+  top: calc(50% + 4px);
+}
+
+.navbar-burger:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.navbar-burger.is-active span:nth-child(1) {
+  transform: translateY(5px) rotate(45deg);
+}
+
+.navbar-burger.is-active span:nth-child(2) {
+  opacity: 0;
+}
+
+.navbar-burger.is-active span:nth-child(3) {
+  transform: translateY(-5px) rotate(-45deg);
+}
