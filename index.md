@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coworking Rural en Prado del Rey, Cádiz
-image: social.png
+image: assets/images/social/default.png
 lang: es
 ref: home
 ---

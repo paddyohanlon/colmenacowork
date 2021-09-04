@@ -59,6 +59,10 @@ h5 {
   font-size: $font-size-h5;
 }
 
+figure {
+  margin: 0;
+}
+
 small,
 .text_small {
   font-size: $font-size-small;
@@ -159,6 +163,13 @@ blockquote {
   }
 }
 
+.post-content {
+  img {
+    height: auto;
+    max-width: 100%;
+  }
+}
+
 .bee-sitting,
 .bees-talking {
   display: block;
@@ -225,6 +236,11 @@ blockquote {
       margin-right: 0;
     }
   }
+}
+
+.footer-about {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
 
 .credits {
