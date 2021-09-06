@@ -3,9 +3,9 @@ baseurl: ""
 title: "La Colmena Espacio de Coworking"
 lang: "es"
 
-# temp for faster building
-exclude:
-  - assets/fonts
+# temp for faster building locally
+# exclude:
+#   - assets/fonts
 
 tagline: "Espacio de Coworking en Prado del Rey, Cádiz"
 permalink: /blog/:categories/:year/:month/:day/:title

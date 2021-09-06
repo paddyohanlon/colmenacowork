@@ -11,13 +11,12 @@
       <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}" />
     {% endfor %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7688318/6862832/css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7688318/6862832/css/fonts.css" media="print" onload="this.media='all'">
     {%- feed_meta -%}
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="apple-touch-icon" href="/icon.png" />
     {% comment %} Place favicon.ico in the root directory {% endcomment %}
     <meta name="theme-color" content="#fafafa" />
-    {%- include google-analytics.html -%}
   </head>
   <body>
     {%- include header.html -%}
@@ -26,8 +25,8 @@
       {{ content}}
     </main>
     {%- include footer.html -%}
-    {%- include newsletter-js.html -%}
     <script type="text/javascript" src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    {%- include google-analytics.html -%}
   </body>
 </html>
 
