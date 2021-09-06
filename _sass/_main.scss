@@ -60,7 +60,12 @@ h5 {
 }
 
 figure {
-  margin: 0;
+  margin: 3em 0;
+}
+
+figcaption {
+  font-size: $font-size-small;
+  text-align: center;
 }
 
 small,
