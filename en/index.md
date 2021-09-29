@@ -7,7 +7,7 @@ ref: home
 canonical_url: https://colmenacowork.es
 ---
 
-<h1 class="main-heading">Coworking <span class="prado"><span class="en">in</span> Prado del Rey</span></h1>
+<h1 class="main-heading">Coworking Space <span class="prado"><span class="en">in</span> Prado del Rey, Cadiz</span></h1>
 
 Do you work remotely in Prado del Rey and are interested in coworking?
 {: .large }
