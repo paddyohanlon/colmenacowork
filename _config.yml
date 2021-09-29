@@ -4,8 +4,8 @@ title: "La Colmena Espacio de Coworking"
 lang: "es"
 
 # temp for faster building locally
-exclude:
-  - assets/fonts
+# exclude:
+#   - assets/fonts
 
 defaults:
   - scope:
