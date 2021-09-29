@@ -5,7 +5,7 @@ description: Several different types of coworking exist. Discover the most impor
 image: assets/images/social/tipos-de-coworking.jpg
 lang: en
 ref: tipos-de-coworking
-keywords: tipos de coworking
+canonical_url: https://colmenacowork.es/adaptar-el-lugar-de-trabajo-a-tus-necesidades-tipos-de-coworking
 ---
 
 <figure>
@@ -20,6 +20,9 @@ keywords: tipos de coworking
 </figure>
 
 Since the recent boom of coworking spaces, more and more people are looking for a flexible working environment that meets their needs. The modern workplace is in a time of change. The traditional 9-5 office work, with the cubicle in the corner, has been replaced by more flexible arrangements that can meet the diverse needs of coworkers.
+{: .large }
+
+<!--more-->
 
 With so many options out there, it's essential to figure out which type of workspace is right for you. This post discusses several common types of coworking and what they offer to different workers.
 
@@ -80,7 +83,7 @@ Rural coworking spaces, as the name suggests, are usually found in rural areas.
 
 Rural areas offer a calmer environment closer to nature for freelancers, digital nomads and all remote workers. These spaces provide all the necessary amenities, such as high-speed Internet access.
 
-Our space [La Colmena Cowork](/en) in Cadiz is a rural coworking. In this type of coworking you can
+Our space [La Colmena Cowork](/en/) in Cadiz is a rural coworking. In this type of coworking you can
 
 - Enjoy a the lifestyle of a digital nomad without the hustle and bustle of the metropolis
 - Have access to all the amenities you need, such as high-speed Internet and meeting rooms
@@ -122,4 +125,4 @@ A coworking for large companies helps to
 
 If you're looking for a coworking space, but aren't sure where to start or what type of workspace will best suit you, we hope this article on the different types of coworkings has been helpful.
 
-And of course, if rural coworking sounds enticing, don’t hesitate to reach out to us at [La Colmena Rural Coworking](/en).
+And of course, if rural coworking sounds enticing, don’t hesitate to reach out to us at [La Colmena Rural Coworking](/en/).

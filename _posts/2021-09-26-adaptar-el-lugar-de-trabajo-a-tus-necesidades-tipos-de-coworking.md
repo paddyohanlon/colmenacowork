@@ -20,6 +20,9 @@ keywords: tipos de coworking
 </figure>
 
 Desde el auge de los espacios de coworking, cada vez son más las personas que buscan un entorno de trabajo flexible que satisfaga sus necesidades. El lugar de trabajo moderno se encuentra en una época de cambio. El tradicional trabajo de oficina de 9 a 5, con el cubículo en la esquina, ha sido sustituido por acuerdos más flexibles que pueden satisfacer las diversas necesidades de los coworkers.
+{: .large }
+
+<!--more-->
 
 Atrás quedaron los días en los que había que trabajar desde casa o en una oficina durante todo el día. Con tantas opciones que existen, es importante averiguar qué tipo de espacio de trabajo es el adecuado para ti. Este post analiza los tipos de coworking y cómo estos espacios de trabajo se están adaptando y qué ofrecen a los distintos tipos de trabajadores.
 

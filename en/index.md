@@ -4,7 +4,7 @@ title: Coworking in Prado del Rey
 image: assets/images/social/default.png
 lang: en
 ref: home
-canonical_url: https://www.colmenacowork.es/
+canonical_url: https://colmenacowork.es
 ---
 
 <h1 class="main-heading">Coworking <span class="prado"><span class="en">in</span> Prado del Rey</span></h1>

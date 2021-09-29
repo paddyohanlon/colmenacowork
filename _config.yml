@@ -4,8 +4,16 @@ title: "La Colmena Espacio de Coworking"
 lang: "es"
 
 # temp for faster building locally
-# exclude:
-#   - assets/fonts
+exclude:
+  - assets/fonts
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      excerpt_separator: <!--more-->
 
 tagline: "Espacio de Coworking en Prado del Rey, Cádiz"
 permalink: /:title
@@ -41,14 +49,14 @@ t:
     main_menu_aria_label: "Navigación principal"
     language_switcher_aria_label: "Cambiar idioma"
     main_menu:
-      coworking_que_es:
-        name: "Coworking: Qué es?"
-        url: "/coworking-que-es-y-como-funciona"
+      blog:
+        name: "Blog"
+        url: "/blog"
   en:
     logo_link_title_attr: "Home"
     toggle_menu_aria_label: "Open or close menu"
-    footer_about: "La Colmena will be a rural coworking space located in Prado del Rey, in the Sierra de Cádiz. The project aims to open its doors in 2021."
-    footer_tagline: "Coworking space en Prado del Rey, Cádiz"
+    footer_about: "La Colmena will be a rural coworking space located in Prado del Rey, in the Sierra de Cadiz. The project aims to open its doors in 2021."
+    footer_tagline: "Coworking space in Prado del Rey, Cadiz"
     illustrations_by: "Illustrations by"
     logo_alt: "La Colmena coworking space logo"
     skip_link_anchor_text: "Skip to main content"
@@ -56,6 +64,6 @@ t:
     main_menu_aria_label: "Main menu"
     language_switcher_aria_label: "Change language"
     main_menu:
-      coworking_que_es:
-        name: "What is coworking?"
-        url: "/coworking-what-is-it-and-how-does-it-work"
+      blog:
+        name: "Blog"
+        url: "/en/blog"

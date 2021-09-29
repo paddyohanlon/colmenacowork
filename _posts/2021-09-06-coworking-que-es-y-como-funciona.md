@@ -22,6 +22,8 @@ keywords: coworking-que-es-y-como-funciona
 El coworking es una forma de trabajo que consiste en compartir un mismo espacio de trabajo que suele estar compuesto por escritorios, salas de conferencias y espacios de descanso. La idea que subyace al coworking es que profesionales, independientes, emprendedores trabajen mejor en un entorno de oficina con otras personas a su alrededor para compartir ideas y estimular la colaboración. También es mucho más asequible que alquilar un espacio privado.
 {: .large }
 
+<!--more-->
+
 Este nuevo concepto de cotrabajo se ha extendido rápidamente por todo el mundo a medida que se hace popular entre los autónomos, los emprendedores, las startups, los trabajadores a distancia y las empresas locales: cualquier persona que trabaje de forma independiente o a distancia puede beneficiarse del entorno comunitario que ofrece el coworking.
 
 <figure>
