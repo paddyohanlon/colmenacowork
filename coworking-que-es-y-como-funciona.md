@@ -5,6 +5,7 @@ description: Una explicación detallada de lo que es un espacio de coworking, su
 image: assets/images/social/coworking-que-es-y-como-funciona.jpg
 lang: es
 ref: coworking-que-es-y-como-funciona
+keywords: coworking-que-es-y-como-funciona
 ---
 
 <figure>

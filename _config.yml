@@ -8,7 +8,7 @@ lang: "es"
 #   - assets/fonts
 
 tagline: "Espacio de Coworking en Prado del Rey, Cádiz"
-permalink: /blog/:categories/:year/:month/:day/:title
+permalink: /:title
 
 description: "Estamos planeando abrir La Colmena un espacio de coworking en Prado del Rey, Cádiz. Un espacio coworking donde compartir ideas, desarrollar y mejorar tus ideas de negocio"
 twitter:

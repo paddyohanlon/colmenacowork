@@ -5,6 +5,7 @@ description: A detailed explication of what a coworking space is, its origins, h
 image: assets/images/social/coworking-que-es-y-como-funciona.jpg
 lang: en
 ref: coworking-que-es-y-como-funciona
+keywords: coworking-que-es-y-como-funciona
 ---
 
 <img

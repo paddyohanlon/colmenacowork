@@ -42,7 +42,9 @@
 
     <!-- language switcher -->
     <ul class="language-switcher list-reset" aria-label="{{ site.t[page.lang].language_switcher_aria_label}}">
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %} {% for page in pages %}
+      <!-- Concat pages and posts -->
+      {% assign pages=site.pages | concat: site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% for page in pages %}
       <li>
         <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
       </li>
