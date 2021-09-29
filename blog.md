@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Blog
+description: El blog del coworking La Colmena.
 image: assets/images/social/default.png
 lang: es
 ref: blog
