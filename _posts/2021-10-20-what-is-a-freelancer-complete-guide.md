@@ -5,7 +5,7 @@ description: The workforce is growing with freelancers, and you can join in. Lea
 image: assets/images/social/que-es-un-freelance.jpg
 lang: en
 ref: que-es-un-freelance
-keywords: que es un freelance
+canonical_url: https://colmenacowork.es/que-es-un-freelance-guia-completa
 ---
 
 <figure>

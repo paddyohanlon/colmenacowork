@@ -19,6 +19,12 @@ Images the appear at the top of blog posts.
 - @1x: 568px wide x 379px high. (`image-name.jpg`)
 - @2x: 1136px wide x 757px high. (`image-name@2x.jpg`)
 
+## Front matter
+
+`keywords:` is included for the primary keyword a post is aimed at. E.g. `que es un freelance` would only appear on the Spanish version of the post for this keyword, the English translation would not have that meta attribute. The attribute is informational only, it is not used in templates.
+
+`canonical_url:` should appear on all English pages. E.g. `canonical_url: https://colmenacowork.es/que-es-un-freelance-guia-completa`
+
 ## Running locally
 
 Install Jekyll:
