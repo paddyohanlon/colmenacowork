@@ -83,7 +83,7 @@ Rural coworking spaces, as the name suggests, are usually found in rural areas.
 
 Rural areas offer a calmer environment closer to nature for freelancers, digital nomads and all remote workers. These spaces provide all the necessary amenities, such as high-speed Internet access.
 
-Our space [La Colmena Cowork](/en/) in Cadiz is a rural coworking. In this type of coworking you can
+Our space [La Colmena Cowork]({{ site.url_en }}) in Cadiz is a rural coworking. In this type of coworking you can
 
 - Enjoy a the lifestyle of a digital nomad without the hustle and bustle of the metropolis
 - Have access to all the amenities you need, such as high-speed Internet and meeting rooms
@@ -125,4 +125,4 @@ A coworking for large companies helps to
 
 If you're looking for a coworking space, but aren't sure where to start or what type of workspace will best suit you, we hope this article on the different types of coworkings has been helpful.
 
-And of course, if rural coworking sounds enticing, don’t hesitate to reach out to us at [La Colmena Rural Coworking](/en/).
+And of course, if rural coworking sounds enticing, don’t hesitate to reach out to us at [La Colmena Rural Coworking]({{ site.url_en }}).

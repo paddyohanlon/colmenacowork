@@ -60,7 +60,7 @@ However, the functioning of a collaborative space depends not only on an office 
 
 ### The coworker
 
-A coworker is a person who works in a shared space with other people from similar professions, or other freelancers, entrepreneurs, and teleworkers. This shared space can range from the usual city-based classic office to a rural area such as [La Colmena Coworking](/en/) in Prado del Rey, Cadiz.
+A coworker is a person who works in a shared space with other people from similar professions, or other freelancers, entrepreneurs, and teleworkers. This shared space can range from the usual city-based classic office to a rural area such as [La Colmena Coworking]({{ site.url_en }}) in Prado del Rey, Cadiz.
 
 What coworkers need for space varies in terms of aspects such as time commitment or budget. There are no set criteria for someone to be (or not) a coworker.
 
@@ -117,7 +117,7 @@ Rural coworking is ideal for freelancers and digital nomads looking to escape th
 
 La Colmena is the perfect rural coworking to work from. It is located in Prado del Rey, Cadiz, Spain.
 
-It's open to entrepreneurs, freelancers, and digital nomads, any type of remote worker. If you want to be part of a community to help grow your business in serene surroundings, contact [La Colmena Coworking](/en/).
+It's open to entrepreneurs, freelancers, and digital nomads, any type of remote worker. If you want to be part of a community to help grow your business in serene surroundings, contact [La Colmena Coworking]({{ site.url_en }}).
 
 For small businesses located far from large metropolitan areas, rural coworking has emerged as an alternative option that offers a better location without compromising work-life balance or office needs.
 
@@ -159,4 +159,4 @@ The advantages of coworking are diverse. You can find everyone from freelancers,
 
 ## Conclusion
 
-Coworking is a relatively new phenomenon in Spain but has been gaining popularity in recent years. If you strive to balance work and family life, a coworking space can help you meet that goal. Check out [La Colmena rural coworking](/en/), and contact us if you have any questions. There is no better time than now to see how coworking could improve your working life.
+Coworking is a relatively new phenomenon in Spain but has been gaining popularity in recent years. If you strive to balance work and family life, a coworking space can help you meet that goal. Check out [La Colmena rural coworking]({{ site.url_en }}), and contact us if you have any questions. There is no better time than now to see how coworking could improve your working life.

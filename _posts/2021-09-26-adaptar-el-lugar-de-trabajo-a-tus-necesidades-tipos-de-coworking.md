@@ -85,7 +85,7 @@ El coworking rural está dentro de los diferentes tipos de coworking que suelen 
 
 Con su baja densidad de población, las zonas rurales ofrecen un entorno más tranquilo y natural para los freelancers y nómadas digitales. Estos espacios ofrecen todas las comodidades necesarias, como acceso a Internet de alta velocidad.
 
-Nuestro espacio [La Colmena Cowork](/) en Cádiz es un coworking rural. En este tipo de coworking se puede
+Nuestro espacio [La Colmena Cowork]({{ site.url }}) en Cádiz es un coworking rural. En este tipo de coworking se puede
 
 - Disfrutar de un estilo de vida nómada digital sin el ajetreo de la metrópoli
 - Tener acceso a todos los servicios que necesite, como Internet de alta velocidad y salas de reuniones
@@ -127,4 +127,4 @@ Un coworking para grandes empresas ayuda a
 
 Si estás buscando un lugar de coworking, pero no estás seguro de por dónde empezar o qué tipo de espacio de trabajo se ajustará mejor a lo que estás buscando, esperemos que este artículo ha sido útil.
 
-Y por cierto, si coworking rural te parece interesante, contactanos [La Colmena Coworking Rural](/).
+Y por cierto, si coworking rural te parece interesante, contactanos [La Colmena Coworking Rural]({{ site.url }}).
