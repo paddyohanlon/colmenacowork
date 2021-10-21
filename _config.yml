@@ -3,6 +3,8 @@ baseurl: ""
 title: "La Colmena"
 lang: "es"
 
+url_en: "https://colmenacowork.es/en/"
+
 # temp for faster building locally
 # exclude:
 #   - assets/fonts
