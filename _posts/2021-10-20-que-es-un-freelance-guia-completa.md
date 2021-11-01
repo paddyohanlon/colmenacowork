@@ -5,7 +5,7 @@ description: La fuerza de trabajo está creciendo con los freelancers y tu puede
 image: assets/images/social/que-es-un-freelance.jpg
 lang: es
 ref: que-es-un-freelance
-keywords: que es un freelance
+keywords: qué es un freelance
 ---
 
 <figure>
