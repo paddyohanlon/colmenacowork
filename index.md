@@ -6,7 +6,7 @@ lang: es
 ref: home
 ---
 
-<h1 class="main-heading">Espacio de Coworking <span class="prado"><span class="en">en</span> Prado del Rey, Cádiz</span></h1>
+<h1 class="main-heading">Espacio de Coworking <span class="prado"><span class="en">en</span> La Sierra de Cádiz</span></h1>
 
 ¿Trabajas remotamente y estás interesado/a un espacio de coworking?
 {: .large }
