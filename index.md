@@ -11,7 +11,7 @@ ref: home
 ¿Trabajas remotamente y estás interesado/a un espacio de coworking?
 {: .large }
 
-Estamos planeando abrir **La Colmena Coworking**, una oficina compartida en
+Estamos al punto de abrir **La Colmena Coworking**, una oficina compartida en
 la Sierra de Cádiz. Un espacio coworking donde compartir ideas, desarrollar y mejorar tus
 ideas de negocio y tener interacción social, algo que siempre se
 echa de menos.
@@ -26,7 +26,7 @@ echa de menos.
   loading="lazy"
 />
 
-La Colmena Coworking tiene previsto abrir sus puertas en 2021, siempre y cuando la situación de COVID mejore. Este espacio de coworking será creado como
+La Colmena Coworking tiene previsto abrir sus puertas a principios del 2022. Este espacio de coworking ha sido creado como
 una asociación sin ánimo de lucro para poder hacerlo lo más asequible
 posible y para que cualquier beneficio que genere, sea para mejorar el
 espacio en el que trabajamos.
@@ -60,15 +60,11 @@ Nuestra intención es proporcionar:
 ## ¿Te parece interesante? ¡Háznoslo saber!
 
 Estamos intentando estimar cuántas personas podrían estar interesadas
-en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey, Sierra de Grazalema, regístrate a continuación.
+en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey, Sierra de Grazalema, envíanos un mail a <a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a>, o
+envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> a través de WhatsApp.
 
 Si por el contrario no estás interesado pero
 conoces a alguien que sí puede estarlo, compártelo por favor!
-
-{% include newsletter-signup.html %}
-
-Si tienes alguna duda, envíanos un mail a <a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a>, o
-envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> a través de WhatsApp.
 
 ## Preguntas
 
@@ -108,23 +104,11 @@ compartidas, donde cualquiera puede alquilar un escritorio e ir a trabajar.
 Sin embargo, es más que eso, es un lugar para crear una comunidad,
 donde se puedan compartir ideas y apoyarse mutuamente.
 
-> “El espacio coworking se trata de crear un lugar agradable para trabajar y, como
-> resultado, una mejor manera de trabajar. Los espacios abiertos de trabajo
-> proporcionan mucho más que una oficina. Son centros comunitarios,
-> lugares de reuniones. Cuando una persona alquila un escritorio o una
-> oficina, conoce a otros compañeros de trabajo para intercambiar ideas y
-> que estos los apoyen profesionalmente de una manera que no se puede
-> encontrar trabajando desde casa. &mdash; Jamie Orr”
-
-### ¿Cuánto cuesta?
-
-Todavía estamos trabajando en esto. Dependerá del espacio que
-encontremos y de cuántas personas quieran participar. Nuestro plan
-hasta ahora es crear una asociación sin fines de lucro y hacerla lo más
-asequible posible.
+Lee nuestra publicación [Coworking: Qué es y cómo funciona?]({% post_url 2021-09-06-coworking-que-es-y-como-funciona %})
 
 ### ¿Dónde se encuentra?
 
-La Colmena estará situada en un pueblo de la Sierra de Cádiz, Prado del
-Rey, con un paisaje de naturaleza increíble. Seguimos buscando un
-lugar en esta localidad, así que si conoces algún sitio, ¡háznoslo saber!
+La Colmena está situada en un pueblo blanco de la Sierra de Cádiz, Prado del
+Rey, con un paisaje de naturaleza increíble.
+
+Nuestra ubicación es Calle Teniente Trujillo 2, Prado del Rey, 11660, Cádiz.

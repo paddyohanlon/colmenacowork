@@ -41,8 +41,8 @@ t:
   es:
     logo_link_title_attr: "Inicio"
     toggle_menu_aria_label: "Abrir o cerrar navigación"
-    footer_about: "La Colmena sera un espacio de coworking rural situado en Prado del Rey, en La Sierra de Cádiz. El proyecto tiene
-    previsto abrir sus puertas en 2021."
+    footer_about: "La Colmena es un espacio de coworking rural situado en Prado del Rey, la Sierra de Cádiz. El proyecto tiene
+    previsto abrir sus puertas a principios del 2022."
     footer_tagline: "Espacio de coworking en La Sierra de Cádiz"
     illustrations_by: "Ilustraciones por"
     logo_alt: "Logo de La Colmena espacio de coworking"
@@ -57,7 +57,7 @@ t:
   en:
     logo_link_title_attr: "Home"
     toggle_menu_aria_label: "Open or close menu"
-    footer_about: "La Colmena will be a rural coworking space located in Prado del Rey, in the Sierra de Cadiz. The project aims to open its doors in 2021."
+    footer_about: "La Colmena is a rural coworking space located in Prado del Rey, the Sierra de Cadiz. The project aims to open its doors at the start of 2022."
     footer_tagline: "Coworking space in the Sierra de Cadiz"
     illustrations_by: "Illustrations by"
     logo_alt: "La Colmena coworking space logo"

@@ -15,8 +15,10 @@
     <li><a href="https://github.com/paddyohanlon/colmenacowork">Github</a></li>
   </ul>
   <p class="footer-about">{{ site.t[page.lang].footer_about }}</p>
+  {%- if page.ref == 'home' %}
   <div class="credits">
     {{ site.t[page.lang].illustrations_by }} <a href="https://alfonsobuendia.blogspot.com/">Alfonso Buendía</a>
   </div>
+  {%- endif %}
   <div class="copyright">&copy; {{ 'now' | date: "%Y" }} La Colmena | {{ site.t[page.lang].footer_tagline }}</div>
 </footer>

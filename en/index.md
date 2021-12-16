@@ -9,10 +9,10 @@ canonical_url: https://colmenacowork.es
 
 <h1 class="main-heading">Coworking Space <span class="prado"><span class="en">in</span> The Sierra de Cadiz</span></h1>
 
-Do you work remotely in Prado del Rey and are interested in coworking?
+Do you work remotely and are interested in coworking?
 {: .large }
 
-We plan to open **La Colmena Coworking** in Prado del Rey. A place to share ideas, develop your business, and have some social interaction we’ve all been so badly missing.
+We plan to open **La Colmena Coworking** in Prado del Rey. A shared office in the Sierra de Cadiz. A place to share ideas, develop and improve your business ideas, and have some social interaction we’ve all been so badly missing.
 
 <img
   class="bee-sitting"
@@ -24,7 +24,7 @@ We plan to open **La Colmena Coworking** in Prado del Rey. A place to share idea
   loading="lazy"
 />
 
-Provided the COVID situation improves, La Colmena coworking will open its doors in 2021. The space will be created as a non-profit association so we can make it as affordable as possible and reinvest any profit in improving the space.
+La Colmena coworking will open its doors in the beginning of 2022. The space has been be created as a non-profit association so we can make it as affordable as possible and reinvest any profit in improving the space.
 
 ## What’s on offer?
 
@@ -48,11 +48,9 @@ Our intention is to provide:
 
 ## Sound interesting? Let us know!
 
-We’re trying to gauge interest right now, so sign up below if you’re interested in coworking in Prado del Rey. And if you know someone else who might be interested, please share!
+We’re trying to gauge interest right now. If you’re interested in coworking in Prado del Rey, Sierra de Grazalema, send us an email at <a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a>. Or send Paddy a message on <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> on WhatsApp.
 
-{% include newsletter-signup.html %}
-
-Also, if you have any questions, send us an email at <a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a>, Or send Paddy a message on <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> on WhatsApp.
+And of course if you know anyone who might be interested, please share!
 
 ## Questions
 
@@ -88,12 +86,10 @@ Also, if you have any questions, send us an email at <a href="mailto:info@colmen
 
 At its simplest, **a coworking space** is an open plan shared office space where anyone can rent desk space and come to and work. More than that though, it’s a place to create community, share ideas and support each other.
 
-> Coworking is about creating a better place to work, and, as a result, a better way to work. Coworking spaces provide more than just office space. They are community centres, friendly gathering places, think tanks. When you rent a desk or an office, you gain coworkers to bounce ideas off and that support you professionally in a way that you can’t find working from home or in the corporate office. &mdash; Jamie Orr
-
-### How much will it cost?
-
-We’re still working this out. It will depend a lot on the space we find and how many people are interested. Our plan so far is to create a non-profit association and to make it as affordable as possible.
+Read our blog post [Coworking: what is it and how does it work?]({% post_url 2021-09-06-coworking-what-is-it-and-how-does-it-work %}).
 
 ### Where will it be located?
 
-In Prado del Rey, Cádiz. We are still looking for a location, so if you know of one, get in touch!
+La Colmena is situated in a white village in the Sierra de Cadiz, Prado del Rey, with incredible natural surroundings.
+
+Our address is Calle Teniente Trujillo 2, Prado del Rey, 11660, Cádiz.
