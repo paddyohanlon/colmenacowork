@@ -5,6 +5,8 @@ lang: "es"
 
 url_en: "https://colmenacowork.es/en/"
 
+email: info@colmenacowork.es
+
 # temp for faster building locally
 # exclude:
 #   - assets/fonts
@@ -54,6 +56,9 @@ t:
       blog:
         name: "Blog"
         url: "/blog"
+      contacto:
+        name: "Contacto"
+        url: "mailto:info@colmenacowork.es"
   en:
     logo_link_title_attr: "Home"
     toggle_menu_aria_label: "Open or close menu"
@@ -69,3 +74,6 @@ t:
       blog:
         name: "Blog"
         url: "/en/blog"
+      contacto:
+        name: "Contact"
+        url: "mailto:info@colmenacowork.es"

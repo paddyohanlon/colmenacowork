@@ -48,7 +48,7 @@ Our intention is to provide:
 
 ## Sound interesting? Let us know!
 
-We’re trying to gauge interest right now. If you’re interested in coworking in Prado del Rey, Sierra de Grazalema, send us an email at <a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a>. Or send Paddy a message on <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> on WhatsApp.
+We’re trying to gauge interest right now. If you’re interested in coworking in Prado del Rey, Sierra de Grazalema, send us an email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. Or send Paddy a message on <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> on WhatsApp.
 
 And of course if you know anyone who might be interested, please share!
 

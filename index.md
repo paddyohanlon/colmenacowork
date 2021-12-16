@@ -60,7 +60,7 @@ Nuestra intención es proporcionar:
 ## ¿Te parece interesante? ¡Háznoslo saber!
 
 Estamos intentando estimar cuántas personas podrían estar interesadas
-en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey, Sierra de Grazalema, envíanos un mail a <a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a>, o
+en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey, Sierra de Grazalema, envíanos un mail a <a href="mailto:{{ site.email }}">{{ site.email }}</a>, o
 envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> a través de WhatsApp.
 
 Si por el contrario no estás interesado pero
