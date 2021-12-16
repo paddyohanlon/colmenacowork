@@ -116,4 +116,4 @@ Instead, seek to collaborate with others around shared interests, even if it mea
 
 Networking is the process of making connections with people, organizations, and resources to help you grow your business or career. Networking has many benefits, such as access to new information, opportunities for collaboration, increased visibility in the community, referrals from other professionals who know you well, and much more.
 
-If you are a remote worker or a digital nomad, you are in Spain, and you are looking for a place to start networking with diverse people, [join La Colmena Coworking Rural](https://colmenacowork.es/) in Prado del Rey, Cadiz.
+If you are a remote worker or a digital nomad, you are in Spain, and you are looking for a place to start networking with diverse people, [join La Colmena Coworking Rural](https://colmenacowork.es/) in the Sierra de Cadiz.

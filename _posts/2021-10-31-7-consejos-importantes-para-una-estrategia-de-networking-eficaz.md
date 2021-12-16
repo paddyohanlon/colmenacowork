@@ -116,4 +116,4 @@ Más bien, busca colaborar con los demás en torno a intereses comunes, incluso 
 
 El networking es el proceso de establecer conexiones con personas, organizaciones y recursos para ayudarte a hacer crecer tu negocio o carrera. El trabajo en red tiene muchos beneficios, como el acceso a nueva información, las oportunidades de colaboración, el aumento de la visibilidad en la comunidad, las referencias de otros profesionales que los conocen bien y mucho más.
 
-Si eres una empresa que funciona en remoto o un nómada digital, estás en España y buscas un lugar para empezar a hacer networking con personas diversas, [súmate a La Colmena Coworking Rural]({{ site.url }}) en Prado del Rey, Cádiz.
+Si eres una empresa que funciona en remoto o un nómada digital, estás en España y buscas un lugar para empezar a hacer networking con personas diversas, [súmate a La Colmena Coworking Rural]({{ site.url }}) en la Sierra de Cádiz.

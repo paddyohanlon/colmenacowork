@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Coworking in Prado del Rey
+title: Coworking in The Sierra de Cadiz
 image: assets/images/social/default.png
 lang: en
 ref: home
 canonical_url: https://colmenacowork.es
 ---
 
-<h1 class="main-heading">Coworking Space <span class="prado"><span class="en">in</span> the Sierra de Cádiz</span></h1>
+<h1 class="main-heading">Coworking Space <span class="prado"><span class="en">in</span> The Sierra de Cadiz</span></h1>
 
 Do you work remotely in Prado del Rey and are interested in coworking?
 {: .large }

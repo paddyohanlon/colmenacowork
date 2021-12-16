@@ -115,7 +115,7 @@ You often pay according to what you use: canvases, drills, band saws, lathes, or
 
 Rural coworking is ideal for freelancers and digital nomads looking to escape the hustle and bustle of cities. It offers a quieter environment in more natural surroundings while still having access to all the necessary services.
 
-La Colmena is the perfect rural coworking to work from. It is located in Prado del Rey, Cadiz, Spain.
+La Colmena is the perfect rural coworking to work from. It is located in the Sierra de Cadiz, Spain.
 
 It's open to entrepreneurs, freelancers, and digital nomads, any type of remote worker. If you want to be part of a community to help grow your business in serene surroundings, contact [La Colmena Coworking]({{ site.url_en }}).
 

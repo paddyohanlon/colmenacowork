@@ -62,7 +62,7 @@ Sin embargo, el funcionamiento de un espacio colaborativo no depende solo de una
 
 ### El coworker
 
-El coworker es la persona que trabaja en un espacio compartido con otras personas de profesiones afines, autónomos, emprendedores y teletrabajadores. Este espacio compartido puede ir desde la clásica oficina de siempre hasta un espacio rural en Prado del Rey, Cádiz como el de [La Colmena Coworking]({{ site.url }}).
+El coworker es la persona que trabaja en un espacio compartido con otras personas de profesiones afines, autónomos, emprendedores y teletrabajadores. Este espacio compartido puede ir desde la clásica oficina de siempre hasta un espacio rural en la Sierra de Grazalema, Cádiz como el de [La Colmena Coworking]({{ site.url }}).
 
 Lo que necesitan de espacio los coworkers varía en cuanto a aspectos como el compromiso de tiempo o presupuesto. No hay criterios establecidos para que alguien sea (o no) un coworker.
 
@@ -117,7 +117,7 @@ Pagas según lo que vayas a utilizar: lonas, taladros, sierras de cinta, tornos 
 
 El coworking rural es perfecto para los autónomos y los nómadas digitales, que buscan escapar del ajetreo de las metrópolis. Este concepto de coworking permite a profesionales independientes disfrutar de un ambiente más tranquilo en entornos más naturales, sin dejar de tener acceso a todos los servicios necesarios, como conexión a Internet de alta velocidad o salas de reuniones.
 
-La Colmena es el coworking rural perfecto para trabajar. Está situado en Prado del Rey, Cádiz, España. Tiene WiFi gratuito y café disponible durante todo el día. Nuestros miembros son emprendedores, freelancers, trabajadores remotos y nómadas digitales que quieren formar parte de una comunidad que les ayude a hacer crecer su negocio mientras disfrutan de la vida al mismo tiempo. Ven y únete a [La Colmena Coworking]({{ site.url }}).
+La Colmena es el coworking rural perfecto para trabajar. Está situado en la Sierra de Cádiz, España. Tiene WiFi gratuito y café disponible durante todo el día. Nuestros miembros son emprendedores, freelancers, trabajadores remotos y nómadas digitales que quieren formar parte de una comunidad que les ayude a hacer crecer su negocio mientras disfrutan de la vida al mismo tiempo. Ven y únete a [La Colmena Coworking]({{ site.url }}).
 
 Para las pequeñas empresas situadas lejos de las grandes áreas metropolitanas, el coworking rural ha surgido como una opción alternativa que ofrece una mejor ubicación sin comprometer la conciliación de la vida laboral o las necesidades de la oficina.
 

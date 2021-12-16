@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coworking Rural en Prado del Rey, Cádiz
+title: Coworking Rural en La Sierra de Cádiz
 image: assets/images/social/default.png
 lang: es
 ref: home
@@ -60,8 +60,7 @@ Nuestra intención es proporcionar:
 ## ¿Te parece interesante? ¡Háznoslo saber!
 
 Estamos intentando estimar cuántas personas podrían estar interesadas
-en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey,
-regístrate a continuación.
+en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey, Sierra de Grazalema, regístrate a continuación.
 
 Si por el contrario no estás interesado pero
 conoces a alguien que sí puede estarlo, compártelo por favor!
