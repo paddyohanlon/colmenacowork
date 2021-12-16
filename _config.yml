@@ -7,10 +7,6 @@ url_en: "https://colmenacowork.es/en/"
 
 email: info@colmenacowork.es
 
-# temp for faster building locally
-# exclude:
-#   - assets/fonts
-
 defaults:
   - scope:
       path: ""
