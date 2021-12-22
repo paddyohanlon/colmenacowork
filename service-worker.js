@@ -1,17 +1,34 @@
-const version = "V1";
+const version = "V2";
 const staticCacheName = version + "staticfiles";
 const imageCacheName = "images";
+const pagesCacheName = "pages";
 const urlsToCache = ["/", "/assets/css/main.css", "/assets/js/main.js", "/offline.html"];
 
-const cacheList = [staticCacheName, imageCacheName];
+const cacheList = [staticCacheName, imageCacheName, pagesCacheName];
+
+function trimCache(cacheName, maxItems) {
+  caches.open(cacheName).then((cache) => {
+    cache.keys().then((items) => {
+      if (items.length > maxItems) {
+        cache.delete(items[0]).then(trimCache(cacheName, maxItems)); // end delete then
+      } // end if
+    }); // end keys then
+  }); // end open
+} // end function
+
+addEventListener("message", (messageEvent) => {
+  if (messageEvent.data == "Clean up caches") {
+    trimCache(pagesCacheName, 2);
+    trimCache(imageCacheName, 5);
+  }
+});
 
 self.addEventListener("install", (installEvent) => {
   // Perform install steps
   skipWaiting();
 
   installEvent.waitUntil(
-    caches.open(staticCacheName).then(function (cache) {
-      console.log("Opened cache");
+    caches.open(staticCacheName).then((cache) => {
       return cache.addAll(urlsToCache);
     }),
   );
@@ -41,19 +58,32 @@ addEventListener("fetch", (fetchEvent) => {
   const request = fetchEvent.request;
   // When the user requests an HTML file
   if (request.headers.get("Accept").includes("text/html")) {
-    console.log("html request");
     fetchEvent.respondWith(
       // Fetch that page from the network
-      fetch(request).catch((error) => {
-        // Otherwise show the fallback page
-        return caches.match("/offline.html");
-      }), // end fetch catch
+      fetch(request)
+        .then((responseFromFetch) => {
+          // Put a copy in the cache
+          const copy = responseFromFetch.clone();
+          fetchEvent.waitUntil(
+            caches.open(pagesCacheName).then((pagesCache) => {
+              return pagesCache.put(request, copy);
+            }),
+          );
+          return responseFromFetch;
+        })
+        .catch((error) => {
+          return caches.match(request).then((responseFromCache) => {
+            if (responseFromCache) {
+              return responseFromCache;
+            }
+            return caches.match("/offline.html");
+          });
+        }),
     ); // end respondWith
     return; // Go no further
   } // end if
   // When the user requests an image
   if (request.headers.get("Accept").includes("image")) {
-    console.log("image request");
     fetchEvent.respondWith(
       // Look for a cached version of the image
       caches.match(request).then((responseFromCache) => {
@@ -75,7 +105,6 @@ addEventListener("fetch", (fetchEvent) => {
     ); // end respondWith
     return; // Go no further
   } // end if
-  console.log("some other request");
   // For everything else...
   fetchEvent.respondWith(
     // Look for a cached version of the file

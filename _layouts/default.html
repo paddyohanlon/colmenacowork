@@ -30,6 +30,11 @@
       if ('serviceWorker' in navigator) {
         window.addEventListener("load", () => {
           navigator.serviceWorker.register("/service-worker.js");
+
+          if (navigator.serviceWorker.controller) {
+            navigator.serviceWorker.controller.
+            postMessage('Clean up caches');
+          }
         });
       }
     </script>
