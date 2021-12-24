@@ -1,14 +1,57 @@
 {
-  "short_name": "",
-  "name": "",
+  "lang": "es",
+  "name": "La Colmena Coworking Rural",
+  "short_name": "La Colmena",
+  "description": "Un coworking en La Sierra de Cádiz, donde compartir ideas y desarrollar tus ideas de negocio.",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "/icons/icon-48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/icons/icon-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "/icons/icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/icons/icon-120.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "/icons/icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/icons/icon-180.png",
       "type": "image/png",
       "sizes": "180x180"
+    },
+    {
+      "src": "/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
   "start_url": "/?utm_source=homescreen",
-  "background_color": "#fafafa",
-  "theme_color": "#fafafa"
+  "background_color": "#ffc712",
+  "theme_color": "#ffc712",
+  "display": "minimal-ui"
 }

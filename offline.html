@@ -4,5 +4,33 @@ title: Sin Conexión / Offline
 lang: es
 ---
 
-<p lang="es">Parece que hay un problema con la conexión de red. Lo siento.</p>
-<p lang="en">It seems there's a problem with the network connection. Sorry.</p>
+<figure>
+  <img
+    src="/assets/images/sin-wifi.jpg"
+    alt="Un meme de la pelí Cast Away con el texto 'Yo, cuando no tengo internet'"
+    height="341"
+    width="500"
+    loading="lazy"
+  />
+</figure>
+
+<p lang="es">Parece que hay un problema con la conexión de red. Lo siento. Todavía puedes leer estas páginas:</p>
+<p lang="en">It seems there's a problem with the network connection. Sorry. You can still read these pages:</p>
+<ul id="history"></ul>
+<script>
+  // Open the cache of pages
+  caches.open("pages").then((pagesCache) => {
+    pagesCache.keys().then((keys) => {
+      let markup = "";
+      // Loop through each item in the cache
+      keys.forEach((request) => {
+        // Make a link to the URL of each page
+        if (!request.url.includes("offline.html")) {
+          markup += `<li><a href="${request.url}">${request.url}</a></li>`;
+        }
+      });
+      // Display the list of links
+      document.getElementById("history").innerHTML = markup;
+    }); // end keys then
+  }); // end open
+</script>

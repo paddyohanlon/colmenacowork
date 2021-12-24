@@ -1,4 +1,4 @@
-const version = "V3";
+const version = "V4";
 const staticCacheName = version + "staticfiles";
 const imageCacheName = "images";
 const pagesCacheName = "pages";
@@ -12,14 +12,14 @@ function trimCache(cacheName, maxItems) {
       if (items.length > maxItems) {
         cache.delete(items[0]).then(trimCache(cacheName, maxItems)); // end delete then
       } // end if
-    }); // end keys then
+    }); // end keys then‚
   }); // end open
 } // end function
 
 addEventListener("message", (messageEvent) => {
   if (messageEvent.data == "Clean up caches") {
-    trimCache(pagesCacheName, 2);
-    trimCache(imageCacheName, 5);
+    trimCache(pagesCacheName, 20);
+    trimCache(imageCacheName, 50);
   }
 });
 
