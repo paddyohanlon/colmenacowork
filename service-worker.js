@@ -1,8 +1,8 @@
-const version = "V4";
+const version = "V5";
 const staticCacheName = version + "staticfiles";
 const imageCacheName = "images";
 const pagesCacheName = "pages";
-const urlsToCache = ["/", "/assets/css/main.css", "/assets/js/main.js", "/offline.html"];
+const urlsToCache = ["/", "/assets/css/main.css", "/assets/js/main.js", "/offline.html", "/assets/images/sin-wifi.jpg"];
 
 const cacheList = [staticCacheName, imageCacheName, pagesCacheName];
 
