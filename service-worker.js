@@ -1,8 +1,8 @@
-const version = "V5";
+const version = "V6";
 const staticCacheName = version + "staticfiles";
 const imageCacheName = "images";
 const pagesCacheName = "pages";
-const urlsToCache = ["/", "/assets/css/main.css", "/assets/js/main.js", "/offline.html", "/assets/images/sin-wifi.jpg"];
+const urlsToCache = ["/", "/assets/css/main.css", "/assets/js/main.js", "/offline.html"];
 
 const cacheList = [staticCacheName, imageCacheName, pagesCacheName];
 
@@ -30,6 +30,9 @@ self.addEventListener("install", (installEvent) => {
   installEvent.waitUntil(
     caches.open(staticCacheName).then((cache) => {
       return cache.addAll(urlsToCache);
+    }),
+    caches.open(imageCacheName).then((cache) => {
+      return cache.addAll(["/assets/images/sin-wifi.jpg"]);
     }),
   );
 });
