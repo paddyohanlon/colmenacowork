@@ -6,26 +6,31 @@
     <meta charset="utf-8">
     {% comment %} Jekyll SEO plugin. Displays `<title>` and social meta tags {% endcomment %}
     {%- seo -%}
+    {%- if page.ref -%}
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for page in pages %}
-      <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}" />
-    {% endfor %}
+    {%- for page in pages -%}
+    <link rel="alternate" hreflang="{{ page.lang }}" href="{{ site.url }}{{ page.url }}" />
+    {% endfor -%}
+    {%- endif -%}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    {%- feed_meta -%}
+    {% feed_meta %}
     <link rel="manifest" href="/site.webmanifest" />
     <link rel="apple-touch-icon" href="/icon.png" />
-    {% comment %} Place favicon.ico in the root directory {% endcomment %}
+    {%- comment -%} Place favicon.ico in the root directory {%- endcomment %}
     <meta name="theme-color" content="#ffc712" />
+    {%- if site.noindex_urls contains page.url %}
+    <meta name="robots" content="noindex">
+    {% endif -%}
   </head>
   <body>
-    {%- include header.html -%}
+    {% include header.html -%}
     <a href="#skip-link-target" class="skip-link display-at-top-on-focus" id="skip-link-target">{{ site.t[page.lang].skip_link_target_anchor_text }}</a>
     <main class="container">
       {{ content}}
     </main>
     {%- include footer.html -%}
     <script type="text/javascript" src="{{ '/assets/js/main.js' | relative_url }}"></script>
-    {%- include google-analytics.html -%}
+    {% include google-analytics.html -%}
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener("load", () => {

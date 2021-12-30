@@ -1,7 +1,5 @@
 <header class="header">
-  <a href="#skip-link-target" class="skip-link display-at-top-on-focus"
-    >{{ site.t[page.lang].skip_link_anchor_text }}</a
-  >
+  <a href="#skip-link-target" class="skip-link display-at-top-on-focus">{{ site.t[page.lang].skip_link_anchor_text }}</a>
   <!-- logo -->
   <div class="logo">
     <a href="/" title="{{ site.t[page.lang].logo_link_title_attr }}">
@@ -34,14 +32,12 @@
       <li>
         <a href="{{ site.t[page.lang].main_menu.blog.url }}"
         {%- if page.url == site.t[page.lang].main_menu.blog.url -%} class="is-active"{%- endif
-          -%}>{{ site.t[page.lang].main_menu.blog.name }}</a
-        >
+          -%}>{{ site.t[page.lang].main_menu.blog.name }}</a>
       </li>
       <li>
         <a href="{{ site.t[page.lang].main_menu.contacto.url }}"
         {%- if page.url == site.t[page.lang].main_menu.contacto.url -%} class="is-active"{%- endif
-          -%}>{{ site.t[page.lang].main_menu.contacto.name }}</a
-        >
+          -%}>{{ site.t[page.lang].main_menu.contacto.name }}</a>
       </li>
     </ul>
 

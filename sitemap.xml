@@ -6,7 +6,7 @@ permalink: /sitemap.xml
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {%- assign pages=site.pages | concat: site.posts -%}
 {%- for page in pages -%}
-{%- if page.canonical_url != nil or page.url contains "404" or page.url contains ".xml" or page.url contains "/assets/" -%}{%- else %}
+{%- if page.canonical_url != nil or page.url contains "404" or page.url contains ".xml" or page.url contains "/assets/" or site.noindex_urls contains page.url -%}{%- else %}
   <url>
     <loc>{{ site.url }}{{ page.url }}</loc>
     {%- assign versions=pages | where:"ref", page.ref -%}
