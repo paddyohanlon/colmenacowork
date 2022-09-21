@@ -124,7 +124,7 @@ blockquote {
 
 .button {
   background: var(--color-brand);
-  color: #fff;
+  color: var(--color-white);
   display: inline-block;
   vertical-align: middle;
   margin: 0;
@@ -140,7 +140,7 @@ blockquote {
   cursor: pointer;
 
   &:hover {
-    background: #fff;
+    background: var(--color-white);
     color: var(--color-brand);
   }
 }
@@ -244,10 +244,46 @@ blockquote {
 }
 
 .footer {
-  font-size: $font-size-small;
-  margin-top: 5em;
-  margin-bottom: 5em;
-  text-align: center;
+  background: var(--color-black);
+  color: var(--color-gray);
+  margin-top: 6em;
+  padding: 3em 1em 1em 1em;
+  position: relative;
+
+  p,
+  ul {
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  a,
+  a:link {
+    color: var(--color-gray);
+    text-decoration-color: var(--color-gray);
+  }
+
+  a:hover,
+  a:focus,
+  a:active {
+    text-decoration-color: var(--color-orange);
+  }
+}
+
+.footer-bee {
+  position: absolute;
+  right: 6%;
+  top: 0;
+  transform: translateY(-100%);
+}
+
+.footer-columns {
+  display: grid;
+  gap: 2em 3em;
+
+  @media only screen and (min-width: $break-medium) {
+    grid-template-columns: minmax(200px, 370px) repeat(auto-fill, minmax(200px, 300px));
+  }
 }
 
 .footer-logo {
@@ -255,19 +291,19 @@ blockquote {
   max-width: 60px;
 }
 
-.footer-links {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  padding: 0;
-
-  & > * {
-    margin-right: 2em;
-
-    &:last-child {
-      margin-right: 0;
-    }
+.contact-links {
+  li {
+    display: grid;
+    gap: 0.75em;
+    grid-template-columns: 30px 1fr;
+    margin-bottom: 1em;
   }
+}
+
+.footer-links-social {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, 30px);
 }
 
 .footer-about {
@@ -275,6 +311,70 @@ blockquote {
   margin-bottom: 1rem;
 }
 
-.credits {
+.footer-small-print {
+  font-size: $font-size-small;
+  margin-top: 2em;
+  border-top: 1px solid var(--color-gray);
+  padding-top: 3em;
+}
+
+.special-mention {
   font-style: italic;
+}
+
+.icon {
+  width: 30px;
+}
+
+.icon-part {
+  fill: var(--color-gray);
+}
+
+.icons-dark {
+  .icon-part {
+    fill: var(--color-black);
+  }
+}
+
+.icon-social-bg {
+  fill: var(--color-gray);
+}
+
+.icon-social-fg {
+  fill: var(--color-black);
+}
+
+.call-to-action-box {
+  background-color: var(--color-maroon);
+  padding: 1px 3em 1em 3em;
+  text-align: center;
+  border-radius: 50px;
+  margin-top: 4em;
+
+  h2 {
+    color: var(--color-yellow);
+    font-weight: normal;
+    margin-top: 1em;
+    text-transform: uppercase;
+  }
+
+  p {
+    color: var(--color-white);
+  }
+}
+
+.google-maps {
+  position: relative;
+  padding-bottom: 75%; // This is the aspect ratio
+  height: 0;
+  overflow: hidden;
+  margin-top: 3em;
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+  }
 }

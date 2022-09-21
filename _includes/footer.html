@@ -1,24 +1,64 @@
-<footer class="footer container">
+<footer class="footer">
   <img
-    class="footer-logo"
-    src="/assets/images/logo-footer.png"
-    srcset="/assets/images/logo-footer@2x.png 2x"
-    alt="La Colmena Coworking Rural, logo"
-    height="55"
-    width="60"
+    class="footer-bee"
+    src="/assets/images/bee-sitting-left.png"
+    srcset="/assets/images/bee-sitting-left@2x.png 2x"
+    alt=""
+    height="90"
+    width="80"
     loading="lazy"
+    role="presentation"
   />
-
-  <ul class="footer-links">
-    <li><a href="mailto:info@colmenacowork.es">info@colmenacowork.es</a></li>
-    <li><a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a></li>
-    <li><a href="https://github.com/paddyohanlon/colmenacowork">Github</a></li>
-  </ul>
-  <p class="footer-about">{{ site.t[page.lang].footer_about }}</p>
-  {%- if page.ref == 'home' %}
-  <div class="credits">
-    {{ site.t[page.lang].illustrations_by }} <a href="https://alfonsobuendia.blogspot.com/">Alfonso Buendía</a>
+  <div class="footer-columns">
+    <!-- about -->
+    <div>
+      <img
+        class="footer-logo"
+        src="/assets/images/logo-footer.png"
+        srcset="/assets/images/logo-footer@2x.png 2x"
+        alt="La Colmena Coworking Rural, logo"
+        height="55"
+        width="60"
+        loading="lazy"
+      />
+      <p class="footer-about">{{ site.t[page.lang].footer_about }}</p>
+    </div>
+    <!-- contact -->
+    <div>
+      <ul class="contact-links list-reset">
+        {% include contact-items.html %}
+      </ul>
+    </div>
+    <!-- social -->
+    <div>
+      <ul class="footer-links-social list-reset">
+        <li>
+          <a href="https://github.com/paddyohanlon/colmenacowork">
+            {% include icon-github.html %}<span class="sr-only">GitHub</span></a
+          >
+        </li>
+        <li>
+          <a href="https://www.instagram.com/lacolmenacoworking/">
+            {% include icon-instagram.html %}<span class="sr-only">Instagram</span></a
+          >
+        </li>
+        <li>
+          <a href="https://www.facebook.com/lacolmenacoworkingrural">
+            {% include icon-facebook.html %}<span class="sr-only">Facebook</span></a
+          >
+        </li>
+      </ul>
+    </div>
   </div>
-  {%- endif %}
-  <div class="copyright">&copy; {{ 'now' | date: "%Y" }} La Colmena | {{ site.t[page.lang].footer_tagline }}</div>
+
+  <div class="footer-small-print">
+    {%- if page.ref == 'home' %}
+    <div class="special-mention">
+      {{ site.t[page.lang].illustrations_by }} <a href="https://alfonsobuendia.blogspot.com/">Alfonso Buendía</a>
+    </div>
+    {%- endif %}
+    <div class="copyright">
+      &copy; {{ 'now' | date: "%Y" }} La Colmena &middot; {{ site.t[page.lang].footer_tagline }}
+    </div>
+  </div>
 </footer>

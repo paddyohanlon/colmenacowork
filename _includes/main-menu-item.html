@@ -1,0 +1,5 @@
+<li>
+  <a href="{{ site.t[page.lang].main_menu.[include.id].url }}"
+  {%- if page.url == site.t[page.lang].main_menu.[include.id].url -%} class="is-active"{%- endif
+    -%}>{{ site.t[page.lang].main_menu.[include.id].name }}</a>
+</li>

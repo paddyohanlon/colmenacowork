@@ -42,8 +42,7 @@ t:
   es:
     logo_link_title_attr: "Inicio"
     toggle_menu_aria_label: "Abrir o cerrar navigación"
-    footer_about: "La Colmena es un espacio de coworking rural situado en Prado del Rey, la Sierra de Cádiz. El proyecto tiene
-    previsto abrir sus puertas a principios del 2022."
+    footer_about: "La Colmena es un espacio de coworking rural situado en Prado del Rey, en la Sierra de Cádiz."
     footer_tagline: "Espacio de coworking en La Sierra de Cádiz"
     illustrations_by: "Ilustraciones por"
     logo_alt: "Logo de La Colmena espacio de coworking"
@@ -52,16 +51,25 @@ t:
     main_menu_aria_label: "Navigación principal"
     language_switcher_aria_label: "Cambiar idioma"
     main_menu:
+      inicio:
+        name: "Inicio"
+        url: "/"
+      quienes_somos:
+        name: "Quiénes somos"
+        url: "/quienes-somos"
+      precios:
+        name: "Precios"
+        url: "/precios"
       blog:
         name: "Blog"
         url: "/blog"
       contacto:
         name: "Contacto"
-        url: "mailto:info@colmenacowork.es"
+        url: "/contacto"
   en:
     logo_link_title_attr: "Home"
     toggle_menu_aria_label: "Open or close menu"
-    footer_about: "La Colmena is a rural coworking space located in Prado del Rey, the Sierra de Cadiz. The project aims to open its doors at the start of 2022."
+    footer_about: "La Colmena is a rural coworking space located in Prado del Rey, in the Sierra de Cadiz."
     footer_tagline: "Coworking space in the Sierra de Cadiz"
     illustrations_by: "Illustrations by"
     logo_alt: "La Colmena coworking space logo"
@@ -70,9 +78,18 @@ t:
     main_menu_aria_label: "Main menu"
     language_switcher_aria_label: "Change language"
     main_menu:
+      inicio:
+        name: "Home"
+        url: "/en/"
+      quienes_somos:
+        name: "About"
+        url: "/about"
+      precios:
+        name: "Prices"
+        url: "/prices"
       blog:
         name: "Blog"
         url: "/en/blog"
       contacto:
         name: "Contact"
-        url: "mailto:info@colmenacowork.es"
+        url: "/contact"

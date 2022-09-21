@@ -1,6 +1,6 @@
 # Página de web de La Colmena
 
-La Colmena será un espacio de coworking rural, situado en Prado del Rey, la Sierra de Cádiz, Andalucía, abriendo sus puertas a principios del 2022.
+La Colmena es un espacio de coworking rural, situado en Prado del Rey, la Sierra de Cádiz, Andalucía.
 
 Web hecho con [Jekyll](https://jekyllrb.com/).
 

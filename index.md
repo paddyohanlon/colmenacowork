@@ -8,28 +8,52 @@ ref: home
 
 <h1 class="main-heading">Espacio de Coworking <span class="prado"><span class="en">en</span> La Sierra de Cádiz</span></h1>
 
-¿Trabajas remotamente y estás interesado/a un espacio de coworking?
+¿Trabajas remotamente y estás interesada/o un espacio de coworking?
 {: .large }
 
-Estamos al punto de abrir **La Colmena Coworking**, una oficina compartida en
-la Sierra de Cádiz. Un espacio coworking donde compartir ideas, desarrollar y mejorar tus
-ideas de negocio y tener interacción social, algo que siempre se
-echa de menos.
+La Colmena es un **espacio de coworking** en Prado del Rey, en la Sierra de Cádiz.
+
+## ¿Qué es un coworking?
+
+Un coworking es un espacio diáfano, de planta abierta con oficinas compartidas, donde cualquiera puede **alquilar un escritorio** e ir a trabajar. Sin embargo, es más que eso, es un lugar para **crear una comunidad**, donde se puedan compartir ideas y apoyarse mutuamente.
+
+Lee nuestra publicación [Coworking: Qué es y cómo funciona?]({% post_url 2021-09-06-coworking-que-es-y-como-funciona %})
+
+## ¿Para quién es?
+
+La Colmena es **para cualquier persona que trabaja desde su casa**: teletrabajador/a, emprendedor/a, nómada digital, etc.
+
+Si trabajas desde casa, un coworking te vendría muy bien. Te ayuda a tener un **mejor equilibrio entre el trabajo y la vida diaria**. Ven a trabajar en un entorno amable y social.
+
+También puedes aprovechar de una dirección profesional y usar nuestra sala de reuniones para quedar con clientes y colegas.
 
 <img
-  class="bee-sitting"
-  src="/assets/images/bee-sitting.png"
-  srcset="/assets/images/bee-sitting@2x.png 2x"
-  alt="Una ilustración de una abeja sentado trabajando con un portatíl"
-  height="217"
-  width="200"
+  class="bees-talking"
+  src="/assets/images/bees-talking.png"
+  srcset="/assets/images/bees-talking@2x.png 2x"
+  alt="Una ilustración de dos abejas charlando con un cafe"
+  height="240"
+  width="217"
   loading="lazy"
 />
 
-La Colmena Coworking tiene previsto abrir sus puertas a principios del 2022. Este espacio de coworking ha sido creado como
-una asociación sin ánimo de lucro para poder hacerlo lo más asequible
-posible y para que cualquier beneficio que genere, sea para mejorar el
-espacio en el que trabajamos.
+## ¿Como funciona?
+
+### Escritorio fijo
+
+Puedes alquilar un escritorio fijo mensualmente.
+
+Un escritorio fijo es para tu uso personal, dónde se puede dejar tu ordenador y pertenencias. Con esa opción tienes tu propia llave al espacio y acceso 24 horas del día, 7 días de la semana.
+
+### Escritorio flexible
+
+Puedes alquilar un escritorio flexible diariamente o semanalmente.
+
+Un escritorio flexible, o “hot desk”, significa que eliges uno de los escritorios no permanentes. El escritorio puede variar dependiendo de la disponibilidad del día, y tienes que llevar tus pertenencias contigo. También tienes acceso al espacio durante las horas del trabajo. Nuestro horario de oficina es de 8.00 a 20.00.
+
+### Sala de reuniones
+
+Si solamente buscas un sitio para hacer reuniones con clientes o colegas, puedes alquilar nuestra sala de reuniones.
 
 ## ¿Qué ofrecemos?
 
@@ -46,69 +70,10 @@ Nuestra intención es proporcionar:
 - Un espacio seguro y flexible donde poder trabajar las 24 horas, los
   7 días de la semana, para que puedas trabajar las horas que más te
   convenga.
+- Una cocina pequeña.
 
-<img
-  class="bees-talking"
-  src="/assets/images/bees-talking.png"
-  srcset="/assets/images/bees-talking@2x.png 2x"
-  alt="Una ilustración de dos abejas charlando con un cafe"
-  height="240"
-  width="217"
-  loading="lazy"
-/>
-
-## ¿Te parece interesante? ¡Háznoslo saber!
-
-Estamos intentando estimar cuántas personas podrían estar interesadas
-en este proyecto. Si estás interesado en el espacio de coworking en Prado del Rey, Sierra de Grazalema, envíanos un mail a <a href="mailto:{{ site.email }}">{{ site.email }}</a>, o
-envía un mensaje a Paddy al <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> a través de WhatsApp.
-
-Si por el contrario no estás interesado pero
-conoces a alguien que sí puede estarlo, compártelo por favor!
-
-## Preguntas
-
-### ¿Quién está detrás de este proyecto?
-
-<div class="bio-grid">
-  <figure class="bio-figure">
-    <img
-      src="/assets/images/paddy.jpg"
-      srcset="/assets/images/paddy@2x.jpg 2x"
-      alt="Foto de Paddy y su hija, Ária"
-      height="160"
-      width="160"
-      loading="lazy"
-    />
-    <figcaption>Paddy, irlandés afincado en Prado desde 2014. Padre de una pequeña
-  pradense, Ária y programador.</figcaption>
-  </figure>
-
-  <figure class="bio-figure">
-    <img
-      src="/assets/images/francesco.jpg"
-      srcset="/assets/images/francesco@2x.jpg 2x"
-      alt="Foto de Francesco"
-      height="160"
-      width="160"
-      loading="lazy"
-    />
-    <figcaption>Francesco, italiano, arquitecto naval.</figcaption>
-  </figure>
+<div class="call-to-action-box">
+  <h2>¡Prueba Gratis!</h2>
+  <p class="large">¡Ven a trabajar en La Colmena un día gratis!</p>
+  <p class="large">O simplemente pásate en cualquier momento para conocernos, nuestras puertas están abiertas.</p>
 </div>
-
-### ¿Qué es un espacio de coworking?
-
-Un **espacio de coworking** es un espacio diáfano, de planta abierta con oficinas
-compartidas, donde cualquiera puede alquilar un escritorio e ir a trabajar.
-Sin embargo, es más que eso, es un lugar para crear una comunidad,
-donde se puedan compartir ideas y apoyarse mutuamente.
-
-Lee nuestra publicación [Coworking: Qué es y cómo funciona?]({% post_url 2021-09-06-coworking-que-es-y-como-funciona %})
-
-### ¿Dónde se encuentra?
-
-La Colmena está situada en un pueblo blanco de la Sierra de Cádiz, Prado del
-Rey, con un paisaje de naturaleza increíble.
-
-Nuestra ubicación es Calle Teniente Trujillo 2, Prado del Rey, 11660, Cádiz.

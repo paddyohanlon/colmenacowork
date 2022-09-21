@@ -12,29 +12,39 @@ canonical_url: https://colmenacowork.es
 Do you work remotely and are interested in coworking?
 {: .large }
 
-We plan to open **La Colmena Coworking** in Prado del Rey. A shared office in the Sierra de Cadiz. A place to share ideas, develop and improve your business ideas, and have some social interaction we’ve all been so badly missing.
+La Colmena is a **coworking space** en Prado del Rey, en the Sierra de Cadiz.
 
-<img
-  class="bee-sitting"
-  src="/assets/images/bee-sitting.png"
-  srcset="/assets/images/bee-sitting@2x.png 2x"
-  alt="An illustration of a bee seated working on a laptop"
-  height="217"
-  width="200"
-  loading="lazy"
-/>
+### What is a coworking space?
 
-La Colmena coworking will open its doors in the beginning of 2022. The space has been be created as a non-profit association so we can make it as affordable as possible and reinvest any profit in improving the space.
+At its simplest, **a coworking space** is an open plan shared office space, where anyone can rent desk space and come to work. More than that though, it’s a place to create community, share ideas and support each other.
 
-## What’s on offer?
+Read our blog post [Coworking: what is it and how does it work?]({% post_url 2021-09-06-coworking-what-is-it-and-how-does-it-work %}).
 
-Our intention is to provide:
+## Who is it for?
 
-- A stylish and comfy open-plan office space where you can rent a desk. Warm and cosy in the winter, cool and fresh in the summer, so you can work comfortably and productively all year round.
-- Great wifi.
-- Video conference room for private meetings and calls.
-- Community events to get to know one another, to share ideas and support each other.
-- Secure and flexible 24/7 access to the space. Work the times that best suit you.
+La Colmena is **for anyone who works from home:** remote worker, entrepreneur, digital nomad, etc.
+
+If you work from home, a coworking could be great for you. It helps you create a **healthy work-life balance**. Come and work in a friendly and social environment!
+
+Also, you can benefit from having a professional business address and use our meeting room for meetings with clients or colleagues.
+
+## How does it work?
+
+### Permanent desk
+
+You can rent a permanent desk per month.
+
+A permanent desk is for your use exclusively, where you can leave your computer and belongings. With this option you get your own key to the space and access 24/7.
+
+### Hot desk
+
+You can rent a hot desk daily or weekly.
+
+A hot desk, or flexible desk, means you choose from one of the non-permanent desks. The desk can vary depending on availability each day. With this option you have access to the space during office hours: 8am to 8pm.
+
+### Meeting room
+
+If you're only looking for a place to have meetings with clients or colleagues, you can rent our meeting room.
 
 <img
   class="bees-talking"
@@ -46,50 +56,19 @@ Our intention is to provide:
   loading="lazy"
 />
 
-## Sound interesting? Let us know!
+## What’s on offer?
 
-We’re trying to gauge interest right now. If you’re interested in coworking in Prado del Rey, Sierra de Grazalema, send us an email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>. Or send Paddy a message on <a href="https://api.whatsapp.com/send?phone=34665897255">+34 665 89 72 55</a> on WhatsApp.
+Our intention is to provide:
 
-And of course if you know anyone who might be interested, please share!
+- A stylish and comfy open-plan office space where you can rent a desk. Warm and cosy in the winter, cool and fresh in the summer, so you can work comfortably and productively all year round.
+- Great wifi.
+- Video conference room for private meetings and calls.
+- Community events to get to know one another, to share ideas and support each other.
+- Secure and flexible 24/7 access to the space. Work the times that best suit you.
+- Small kitchen.
 
-## Questions
-
-### Who is behind this project?
-
-<div class="bio-grid">
-  <figure class="bio-figure">
-    <img
-      src="/assets/images/paddy.jpg"
-      srcset="/assets/images/paddy@2x.jpg 2x"
-      alt="Photo of Paddy and his daughter, Ária"
-      height="160"
-      width="160"
-      loading="lazy"
-    />
-    <figcaption>Paddy, from Ireland and living in Prado del Rey for almost 7 years. Father to a little Pradense, Ária, and a web developer.</figcaption>
-  </figure>
-
-  <figure class="bio-figure">
-    <img
-      src="/assets/images/francesco.jpg"
-      srcset="/assets/images/francesco@2x.jpg 2x"
-      alt="Photo of Francesco"
-      height="160"
-      width="160"
-      loading="lazy"
-    />
-    <figcaption>Francesco, from Italy, naval architect/engineer.</figcaption>
-  </figure>
+<div class="call-to-action-box">
+  <h2>Free Trial!</h2>
+  <p class="large">Come work for a day for free!</p>
+  <p class="large">Or simply pass by whenever you like to get to know us, our doors are open.</p>
 </div>
-
-### What is a coworking space?
-
-At its simplest, **a coworking space** is an open plan shared office space where anyone can rent desk space and come to and work. More than that though, it’s a place to create community, share ideas and support each other.
-
-Read our blog post [Coworking: what is it and how does it work?]({% post_url 2021-09-06-coworking-what-is-it-and-how-does-it-work %}).
-
-### Where will it be located?
-
-La Colmena is situated in a white village in the Sierra de Cadiz, Prado del Rey, with incredible natural surroundings.
-
-Our address is Calle Teniente Trujillo 2, Prado del Rey, 11660, Cádiz.
