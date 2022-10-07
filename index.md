@@ -14,6 +14,7 @@ ref: home
 La Colmena es un **espacio de coworking** en Prado del Rey, en la Sierra de Cádiz.
 
 <img
+  class="responsive-img"
   src="/assets/images/espacio-principal.jpg"
   srcset="/assets/images/espacio-principal@2x.jpg 2x"
   alt="El espacio principal del coworking"
@@ -51,6 +52,7 @@ También puedes aprovechar de una dirección profesional y usar nuestra sala de 
 ### Escritorio fijo
 
 <img
+  class="responsive-img"
   src="/assets/images/escritorio-fijo.jpg"
   srcset="/assets/images/escritorio-fijo@2x.jpg 2x"
   alt="Escritorio fijo"
@@ -66,6 +68,7 @@ Un escritorio fijo es para tu uso personal, dónde se puede dejar tu ordenador y
 ### Escritorio flexible
 
 <img
+  class="responsive-img"
   src="/assets/images/hot-desks.jpg"
   srcset="/assets/images/hot-desks@2x.jpg 2x"
   alt="Hot desks"
@@ -81,6 +84,7 @@ Un escritorio flexible, o “hot desk”, significa que eliges uno de los escrit
 ### Sala de reuniones
 
 <img
+  class="responsive-img"
   src="/assets/images/sala-de-reuniones.jpg"
   srcset="/assets/images/sala-de-reuniones@2x.jpg 2x"
   alt="Sala de reuniones"

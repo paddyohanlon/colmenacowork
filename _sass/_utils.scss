@@ -4,6 +4,11 @@
   list-style: none;
 }
 
+.responsive-img {
+  height: auto;
+  max-width: 100%;
+}
+
 @mixin skip-link {
   -webkit-clip-path: polygon(0 0, 0 0, 0 0, 0 0);
   clip-path: polygon(0 0, 0 0, 0 0, 0 0);
