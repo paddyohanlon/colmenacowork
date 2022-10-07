@@ -14,6 +14,15 @@ Do you work remotely and are interested in coworking?
 
 La Colmena is a **coworking space** en Prado del Rey, en the Sierra de Cadiz.
 
+<img
+  src="/assets/images/espacio-principal.jpg"
+  srcset="/assets/images/espacio-principal@2x.jpg 2x"
+  alt="The main coworking area"
+  height="286"
+  width="568"
+  loading="lazy"
+/>
+
 ### What is a coworking space?
 
 At its simplest, **a coworking space** is an open plan shared office space, where anyone can rent desk space and come to work. More than that though, it’s a place to create community, share ideas and support each other.
@@ -32,17 +41,44 @@ Also, you can benefit from having a professional business address and use our me
 
 ### Permanent desk
 
+<img
+  src="/assets/images/escritorio-fijo.jpg"
+  srcset="/assets/images/escritorio-fijo@2x.jpg 2x"
+  alt="Permanent desk"
+  height="426"
+  width="568"
+  loading="lazy"
+/>
+
 You can rent a permanent desk per month.
 
 A permanent desk is for your use exclusively, where you can leave your computer and belongings. With this option you get your own key to the space and access 24/7.
 
 ### Hot desk
 
+<img
+  src="/assets/images/hot-desks.jpg"
+  srcset="/assets/images/hot-desks@2x.jpg 2x"
+  alt="Hot desks"
+  height="426"
+  width="568"
+  loading="lazy"
+/>
+
 You can rent a hot desk daily or weekly.
 
 A hot desk, or flexible desk, means you choose from one of the non-permanent desks. The desk can vary depending on availability each day. With this option you have access to the space during office hours: 8am to 8pm.
 
 ### Meeting room
+
+<img
+  src="/assets/images/sala-de-reuniones.jpg"
+  srcset="/assets/images/sala-de-reuniones@2x.jpg 2x"
+  alt="Meeting room"
+  height="408"
+  width="568"
+  loading="lazy"
+/>
 
 If you're only looking for a place to have meetings with clients or colleagues, you can rent our meeting room.
 

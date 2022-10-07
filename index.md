@@ -13,6 +13,15 @@ ref: home
 
 La Colmena es un **espacio de coworking** en Prado del Rey, en la Sierra de Cádiz.
 
+<img
+  src="/assets/images/espacio-principal.jpg"
+  srcset="/assets/images/espacio-principal@2x.jpg 2x"
+  alt="El espacio principal del coworking"
+  height="286"
+  width="568"
+  loading="lazy"
+/>
+
 ## ¿Qué es un coworking?
 
 Un coworking es un espacio diáfano, de planta abierta con oficinas compartidas, donde cualquiera puede **alquilar un escritorio** e ir a trabajar. Sin embargo, es más que eso, es un lugar para **crear una comunidad**, donde se puedan compartir ideas y apoyarse mutuamente.
@@ -41,17 +50,44 @@ También puedes aprovechar de una dirección profesional y usar nuestra sala de 
 
 ### Escritorio fijo
 
+<img
+  src="/assets/images/escritorio-fijo.jpg"
+  srcset="/assets/images/escritorio-fijo@2x.jpg 2x"
+  alt="Escritorio fijo"
+  height="426"
+  width="568"
+  loading="lazy"
+/>
+
 Puedes alquilar un escritorio fijo mensualmente.
 
 Un escritorio fijo es para tu uso personal, dónde se puede dejar tu ordenador y pertenencias. Con esa opción tienes tu propia llave al espacio y acceso 24 horas del día, 7 días de la semana.
 
 ### Escritorio flexible
 
+<img
+  src="/assets/images/hot-desks.jpg"
+  srcset="/assets/images/hot-desks@2x.jpg 2x"
+  alt="Hot desks"
+  height="426"
+  width="568"
+  loading="lazy"
+/>
+
 Puedes alquilar un escritorio flexible diariamente o semanalmente.
 
 Un escritorio flexible, o “hot desk”, significa que eliges uno de los escritorios no permanentes. El escritorio puede variar dependiendo de la disponibilidad del día, y tienes que llevar tus pertenencias contigo. También tienes acceso al espacio durante las horas del trabajo. Nuestro horario de oficina es de 8.00 a 20.00.
 
 ### Sala de reuniones
+
+<img
+  src="/assets/images/sala-de-reuniones.jpg"
+  srcset="/assets/images/sala-de-reuniones@2x.jpg 2x"
+  alt="Sala de reuniones"
+  height="408"
+  width="568"
+  loading="lazy"
+/>
 
 Si solamente buscas un sitio para hacer reuniones con clientes o colegas, puedes alquilar nuestra sala de reuniones.
 
