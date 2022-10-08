@@ -47,7 +47,7 @@ ref: precios
       A hot desk is one chosen from one of the non-permenant desks. The desk can vary depending on availability on the day, and you need to take your stuff home with you.
     </p>
     <p>
-      With this option you have access to the space during our working hours. Our office hours are 8am to 8pm.
+      With this option you have access to the space during our working hours. Our office hours are Monday to Friday, 8am to 8pm.
     </p>
     <p class="servicio-incluye">
       Includes access to the whole space, including access to the kitchen and meeting room.
