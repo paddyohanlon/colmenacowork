@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Read our history, who we are, and how the coworking was created.
 image: assets/images/social/default.png
 lang: en
 ref: quienes-somos
