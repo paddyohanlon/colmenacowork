@@ -2,7 +2,7 @@
 layout: page
 title: Prices
 description: Our prices for permanent desks, hot desks, and the meeting room.
-image: assets/images/social/default.png
+image: assets/images/social/default.jpg
 lang: en
 ref: precios
 ---

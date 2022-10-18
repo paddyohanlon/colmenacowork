@@ -2,7 +2,7 @@
 layout: page
 title: Quiénes somos
 description: Leer nuestra historia, quiénes somos, y como fue creado el coworking.
-image: assets/images/social/default.png
+image: assets/images/social/default.jpg
 lang: es
 ref: quienes-somos
 ---

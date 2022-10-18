@@ -2,7 +2,7 @@
 layout: default
 title: Coworking in The Sierra de Cadiz
 description: La Colmena is a coworking space in Prado del Rey, in the Sierra de Cadiz.
-image: assets/images/social/default.png
+image: assets/images/social/default.jpg
 lang: en
 ref: home
 canonical_url: https://colmenacowork.es

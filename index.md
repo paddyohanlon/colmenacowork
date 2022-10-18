@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coworking Rural en La Sierra de Cádiz
-image: assets/images/social/default.png
+image: assets/images/social/default.jpg
 lang: es
 ref: home
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 description: How to contact us, address, map, and social media.
-image: assets/images/social/default.png
+image: assets/images/social/default.jpg
 lang: en
 ref: contacto
 ---
