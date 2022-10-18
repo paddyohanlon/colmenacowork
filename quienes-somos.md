@@ -47,12 +47,12 @@ Finalmente, encontramos nuestro hogar en Calle Teniente Trujillo 2 Bajo, Prado d
   <img
     src="/assets/images/despacho-antes.jpg"
     srcset="/assets/images/despacho-antes@2x.jpg 2x"
-    alt="El despacho pequeño antes de nuestra primera renovación pequeña"
+    alt="La sala pequeña antes de nuestra primera renovación"
     height="228"
     width="568"
     loading="lazy"
   />
-  <figcaption>El despacho pequeño dónde trabajamos al inicio. Eventualmente se convertiría en nuestra sala de reuniones</figcaption>
+  <figcaption>La sala pequeña que después será nuestra sala de reuniones</figcaption>
 </figure>
 
 <figure>
