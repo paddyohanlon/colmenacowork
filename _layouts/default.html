@@ -32,7 +32,9 @@
     <script type="text/javascript" src="{{ '/assets/js/main.js' | relative_url }}"></script>
     {% include google-analytics.html -%}
     <script>
-      if ('serviceWorker' in navigator) {
+      if (location.hostname === "localhost") {
+        console.log("On localhost, service worker not registered");
+      } else if ('serviceWorker' in navigator) {
         window.addEventListener("load", () => {
           navigator.serviceWorker.register("/service-worker.js");
 
