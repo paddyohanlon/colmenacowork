@@ -113,7 +113,8 @@ Nuestra intención es proporcionar:
 - Una cocina pequeña.
 
 <div class="call-to-action-box">
-  <h2>¡Prueba Gratis!</h2>
+  <h2>¡Prueba Gratis!*</h2>
   <p class="large">¡Ven a trabajar en La Colmena un día gratis!</p>
   <p class="large">O simplemente pásate en cualquier momento para conocernos, nuestras puertas están abiertas.</p>
+  <p class="small">*Si estás interesado/a en un puesto fijo.</p>
 </div>

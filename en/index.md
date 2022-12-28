@@ -105,7 +105,8 @@ Our intention is to provide:
 - Small kitchen.
 
 <div class="call-to-action-box">
-  <h2>Free Trial!</h2>
+  <h2>Free Trial!*</h2>
   <p class="large">Come work for a day for free!</p>
   <p class="large">Or simply pass by whenever you like to get to know us, our doors are open.</p>
+  <p class="small">*If you're interested in a permanent desk.</p>
 </div>
