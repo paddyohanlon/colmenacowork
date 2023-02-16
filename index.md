@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Coworking Rural en La Sierra de Cádiz
-image: assets/images/social/default.png
+image: assets/images/social/default.jpg
 lang: es
 ref: home
 ---
@@ -15,10 +15,10 @@ La Colmena es un **espacio de coworking** en Prado del Rey, en la Sierra de Cád
 
 <img
   class="responsive-img"
-  src="/assets/images/espacio-principal.jpg"
-  srcset="/assets/images/espacio-principal@2x.jpg 2x"
+  src="/assets/images/espacio-principal-b.jpg"
+  srcset="/assets/images/espacio-principal-b@2x.jpg 2x"
   alt="El espacio principal del coworking"
-  height="286"
+  height="379"
   width="568"
   loading="lazy"
 />
