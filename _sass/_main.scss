@@ -22,7 +22,7 @@ p {
   &.large {
     font-size: $font-size-h5;
   }
-  
+
   &.small {
     font-size: $font-size-small;
   }
@@ -87,6 +87,10 @@ h5 {
 
 figure {
   margin: 3em 0;
+}
+
+iframe {
+  margin: 2em 0;
 }
 
 figcaption {
@@ -390,4 +394,10 @@ blockquote {
 
 .servicio-incluye {
   font-style: italic;
+}
+
+iframe[src*="youtube-nocookie.com"] {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
 }
