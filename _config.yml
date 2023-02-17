@@ -7,6 +7,9 @@ url_en: "https://colmenacowork.es/en/"
 
 email: info@colmenacowork.es
 
+# Include Netlify redirects
+include: [_redirects]
+
 defaults:
   - scope:
       path: ""
