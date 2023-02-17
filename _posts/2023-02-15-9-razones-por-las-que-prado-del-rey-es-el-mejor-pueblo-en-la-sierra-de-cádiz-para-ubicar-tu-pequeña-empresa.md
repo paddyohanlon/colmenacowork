@@ -94,10 +94,10 @@ La Colmena Coworking es un espacio de coworking rural con un ambiente amable, in
 
 ## 8. Escena Emprendedora en Crecimiento
 
-La ciudad es el hogar de una escena emprendedora en crecimiento, con una variedad de nuevas empresas y negocios pequeños, incluyendo un número cada vez mayor de expatriados que se han mudado allí.
+El pueblo es el hogar de una escena emprendedora en crecimiento, con una variedad de nuevas empresas y negocios pequeños, incluyendo un número cada vez mayor de expatriados que se han mudado allí.
 
 ## 9. Un Ambiente Acogedor
 
 Finalmente, Prado del Rey es conocido por su ambiente acogedor, con una comunidad local amistosa que está ansiosa por apoyar a nuevas empresas y ayudarlas a prosperar.
 
-En conclusión, Prado del Rey es una ciudad atractiva y próspera que ofrece a las empresas una combinación única de hermosos paisajes y una comunidad local solidaria. Si estás buscando trasladar tu negocio a la Sierra de Cádiz, Prado del Rey debería estar en la cima de tu lista.
+En conclusión, Prado del Rey es un pueblo atractiva y próspera que ofrece a las empresas una combinación única de hermosos paisajes y una comunidad local solidaria. Si estás buscando trasladar tu negocio a la Sierra de Cádiz, Prado del Rey debería estar en la cima de tu lista.
