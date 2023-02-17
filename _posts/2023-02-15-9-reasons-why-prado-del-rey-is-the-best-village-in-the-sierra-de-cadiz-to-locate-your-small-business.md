@@ -5,7 +5,7 @@ description: Are you an entrepeneur, remote worker, or freelancer looking for th
 image: assets/images/social/prado-del-rey-de-noche.jpg
 lang: en
 ref: prado-para-empresas
-canonical_url: https://colmenacowork.es/9-razones-por-las-que-prado-del-rey-es-el-mejor-pueblo-en-la-sierra-de-cádiz-para-ubicar-tu-pequeña-empresa
+canonical_url: https://colmenacowork.es/9-razones-por-las-que-prado-del-rey-es-el-mejor-pueblo-en-la-sierra-de-cadiz-para-ubicar-tu-pequena-empresa
 ---
 
 <figure>
