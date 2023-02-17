@@ -84,8 +84,8 @@ Al estar ubicado justo en la frontera de la Sierra de Grazalema, se pueden hacer
 La Colmena Coworking es un espacio de coworking rural con un ambiente amable, interiorismo elegante y bien equipado. Está ubicado en el centro de Prado del Rey, justo al lado de la plaza principal. Ofrece internet de fibra óptica rápido y confiable, una sala de reuniones, escritorios permanentes y compartidos, una pequeña cocina con té y café gratis, y un espacio para relajarse. Todo lo que necesitas para trabajar cómodamente, ser productivo y tener reuniones en un ambiente moderno y profesional.
 
 <img
-  src="/assets/images/espacio-principal.jpg"
-  srcset="/assets/images/espacio-principal@2x.jpg 2x"
+  src="/assets/images/espacio-principal-b.jpg"
+  srcset="/assets/images/espacio-principal-b@2x.jpg 2x"
   alt="La zona de coworking principal"
   height="286"
   width="568"
