@@ -98,6 +98,6 @@ El pueblo es el hogar de una escena emprendedora en crecimiento, con una varieda
 
 ## 9. Un Ambiente Acogedor
 
-Finalmente, Prado del Rey es conocido por su ambiente acogedor, con una comunidad local amistosa que está ansiosa por apoyar a nuevas empresas y ayudarlas a prosperar.
+Finalmente, Prado del Rey es conocido por su ambiente acogedor, con una comunidad local amable con ganas por apoyar a nuevas empresas..
 
 En conclusión, Prado del Rey es un pueblo atractiva y próspera que ofrece a las empresas una combinación única de hermosos paisajes y una comunidad local solidaria. Si estás buscando trasladar tu negocio a la Sierra de Cádiz, Prado del Rey debería estar en la cima de tu lista.
