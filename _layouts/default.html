@@ -25,8 +25,10 @@
   <body>
     {% include header.html -%}
     <a href="#skip-link-target" class="skip-link display-at-top-on-focus" id="skip-link-target">{{ site.t[page.lang].skip_link_target_anchor_text }}</a>
-    <main class="container">
-      {{ content}}
+    <main class="main">
+      <div class="container">
+        {{ content}}
+      </div>
     </main>
     {%- include footer.html -%}
     <script type="text/javascript" src="{{ '/assets/js/main.js' | relative_url }}"></script>

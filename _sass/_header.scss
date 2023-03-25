@@ -1,9 +1,15 @@
 .header {
+  background-color: var(--color-yellow);
   margin-bottom: 2em;
-  padding: 10px 16px;
+  padding: 10px 16px 1rem 16px;
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 2vh), 0 100%);
 
   @media only screen and (min-width: $break-medium) {
     display: flex;
+  }
+
+  a {
+    color: var(--color-maroon)
   }
 }
 

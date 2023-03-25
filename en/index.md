@@ -83,15 +83,7 @@ A hot desk, or flexible desk, means you choose from one of the non-permanent des
 
 If you're only looking for a place to have meetings with clients or colleagues, you can rent our meeting room.
 
-<img
-  class="bees-talking"
-  src="/assets/images/bees-talking.png"
-  srcset="/assets/images/bees-talking@2x.png 2x"
-  alt="An illustration of two bees chatting with a coffee"
-  height="240"
-  width="217"
-  loading="lazy"
-/>
+{% include bees-talking.html lang="en" %}
 
 ## What’s on offer?
 
@@ -103,10 +95,3 @@ Our intention is to provide:
 - Community events to get to know one another, to share ideas and support each other.
 - Secure and flexible 24/7 access to the space. Work the times that best suit you.
 - Small kitchen.
-
-<div class="call-to-action-box">
-  <h2>Free Trial!*</h2>
-  <p class="large">Come work for a day for free!</p>
-  <p class="large">Or simply pass by whenever you like to get to know us, our doors are open.</p>
-  <p class="small">*If you're interested in a permanent desk.</p>
-</div>

@@ -202,15 +202,7 @@ Abraham nos apoyó con consejos de gestoría.
 
 Rosa nos ayudó a evaluar varias ubicaciones y su marido Alfonso dibujó nuestras abejas trabajadoras.
 
-<img
-  class="bees-talking"
-  src="/assets/images/bees-talking.png"
-  srcset="/assets/images/bees-talking@2x.png 2x"
-  alt="Una ilustración de dos abejas charlando con un cafe"
-  height="240"
-  width="217"
-  loading="lazy"
-/>
+{% include bees-talking.html %}
 
 Antonio nos ayudó poniendo los azulejos de nuestro pequeño patio.
 

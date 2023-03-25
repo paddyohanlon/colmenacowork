@@ -203,15 +203,7 @@ Abraham helped with legal and accounting advice.
 
 Rosa helped us assess several potential locations, and her husband Alfonso genorously drew our worker bees.
 
-<img
-  class="bees-talking"
-  src="/assets/images/bees-talking.png"
-  srcset="/assets/images/bees-talking@2x.png 2x"
-  alt="An illustration of two bees chatting with a coffee"
-  height="240"
-  width="217"
-  loading="lazy"
-/>
+{% include bees-talking.html lang="en" %}
 
 Antonio helped tiling our small patio.
 

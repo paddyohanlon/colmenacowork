@@ -1,0 +1,15 @@
+{% capture alt %} Una ilustración de dos abejas charlando con un cafe {% endcapture %}
+{% if include.lang == "en" %}
+  {% capture alt %} An illustration of two bees chatting with a coffee {% endcapture %}
+{% endif %}
+<div class="bees-talking">
+  <img
+    class="responsive-img"
+    src="/assets/images/bees-talking.png"
+    srcset="/assets/images/bees-talking@2x.png 2x"
+    alt="{{ alt }}"
+    height="240"
+    width="217"
+    loading="lazy"
+  />
+</div>

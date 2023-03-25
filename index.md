@@ -6,7 +6,7 @@ lang: es
 ref: home
 ---
 
-<h1 class="main-heading">Espacio de Coworking <span class="prado"><span class="en">en</span> La Sierra de Cádiz</span></h1>
+<h1 class="main-heading">Espacio de Coworking <span class="prado">en La Sierra de Cádiz</span></h1>
 
 ¿Trabajas remotamente y estás interesada/o un espacio de coworking?
 {: .large }
@@ -37,15 +37,7 @@ Si trabajas desde casa, un coworking te vendría muy bien. Te ayuda a tener un *
 
 También puedes aprovechar de una dirección profesional y usar nuestra sala de reuniones para quedar con clientes y colegas.
 
-<img
-  class="bees-talking"
-  src="/assets/images/bees-talking.png"
-  srcset="/assets/images/bees-talking@2x.png 2x"
-  alt="Una ilustración de dos abejas charlando con un cafe"
-  height="240"
-  width="217"
-  loading="lazy"
-/>
+{% include bees-talking.html %}
 
 ## ¿Como funciona?
 
@@ -111,10 +103,3 @@ Nuestra intención es proporcionar:
   7 días de la semana, para que puedas trabajar las horas que más te
   convenga.
 - Una cocina pequeña.
-
-<div class="call-to-action-box">
-  <h2>¡Prueba Gratis!*</h2>
-  <p class="large">¡Ven a trabajar en La Colmena un día gratis!</p>
-  <p class="large">O simplemente pásate en cualquier momento para conocernos, nuestras puertas están abiertas.</p>
-  <p class="small">*Si estás interesado/a en un puesto fijo.</p>
-</div>

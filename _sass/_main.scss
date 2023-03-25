@@ -9,8 +9,8 @@ html {
 }
 
 body {
-  background: var(--color-yellow);
-  color: var(--color-black);
+  background: var(--color-black);
+  color: var(--color-white);
   font-family: $typeface-body;
   font-weight: 400;
   line-height: 1.75;
@@ -34,12 +34,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--color-maroon);
-  font-family: $typeface-heading;
+  color: var(--color-white);
+  font-family: var(--typeface-heading);
   font-weight: 700;
   margin: 3rem 0 1.38rem;
   line-height: 1.3;
   text-align: center;
+  text-transform: uppercase;
 }
 
 h1 {
@@ -105,7 +106,7 @@ small,
 
 a,
 a:link {
-  color: var(--color-brand);
+  color: var(--color-white);
   text-decoration-style: dotted;
   text-decoration-thickness: 2px;
   text-underline-offset: 1px;
@@ -113,15 +114,13 @@ a:link {
   transition: all $hover-transition-time;
 }
 
-a:hover,
-a:focus,
-a:active {
-  text-decoration-color: var(--color-maroon);
-}
-
 blockquote {
   font-size: $font-size-h5;
   font-style: italic;
+}
+
+.main {
+  background: var(--color-black);
 }
 
 .container {
@@ -186,11 +185,6 @@ blockquote {
 }
 
 .main-heading {
-  .en {
-    font-style: italic;
-    font-weight: 400;
-  }
-
   .prado {
     display: block;
     font-size: $font-size-h3;
@@ -210,19 +204,29 @@ blockquote {
   margin-bottom: 5em;
 }
 
-.bee-sitting,
-.bees-talking {
+.bee-sitting {
   display: block;
   height: auto;
   margin: 3em auto;
-}
-
-.bee-sitting {
   max-width: 200px;
 }
 
 .bees-talking {
+  background: var(--color-white);
+  display: block;
+  height: auto;
+  margin: 3em auto;
+  padding: 1.75rem;
   max-width: 217px;
+
+  --hex-size: 180px;
+  clip-path: var(--hexagon);
+  height: var(--hex-size);
+  width: calc(var(--hex-size) * var(--hexagon-width-ratio));
+
+  img {
+
+  }
 }
 
 .grecaptcha-badge {
@@ -252,11 +256,17 @@ blockquote {
 }
 
 .footer {
-  background: var(--color-black);
+  background: #000;
+  border-top: 10px solid var(--color-yellow);
+  clip-path: polygon(0 0, 100% calc(2vh), 100% 100%, 0 100%);
   color: var(--color-gray);
   margin-top: 6em;
-  padding: 3em 1em 1em 1em;
+  padding: 3em 1em 10.5em 1em;
   position: relative;
+
+  @media only screen and (min-width: $break-medium) {
+    padding-bottom: 1em;
+  }
 
   p,
   ul {
@@ -281,8 +291,18 @@ blockquote {
 .footer-bee {
   position: absolute;
   right: 6%;
-  top: 0;
-  transform: translateY(-100%);
+  bottom: 0;
+  padding: 2rem 1rem 0 1rem;
+  background: var(--color-white);
+
+  --hex-size: 130px;
+  clip-path: var(--hexagon);
+  height: var(--hex-size);
+  width: calc(var(--hex-size) * var(--hexagon-width-ratio));
+
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
 }
 
 .footer-columns {
@@ -322,8 +342,6 @@ blockquote {
 .footer-small-print {
   font-size: $font-size-small;
   margin-top: 2em;
-  border-top: 1px solid var(--color-gray);
-  padding-top: 3em;
 }
 
 .special-mention {
@@ -350,25 +368,6 @@ blockquote {
 
 .icon-social-fg {
   fill: var(--color-black);
-}
-
-.call-to-action-box {
-  background-color: var(--color-maroon);
-  padding: 1px 3em 1em 3em;
-  text-align: center;
-  border-radius: 50px;
-  margin-top: 4em;
-
-  h2 {
-    color: var(--color-yellow);
-    font-weight: normal;
-    margin-top: 1em;
-    text-transform: uppercase;
-  }
-
-  p {
-    color: var(--color-white);
-  }
 }
 
 .google-maps {
