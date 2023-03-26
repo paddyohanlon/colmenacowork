@@ -16,6 +16,7 @@ Do you work remotely and are interested in coworking?
 La Colmena is a **coworking space** in Prado del Rey, in the Sierra de Cadiz.
 
 <img
+  class="responsive-img"
   src="/assets/images/espacio-principal-b.jpg"
   srcset="/assets/images/espacio-principal-b@2x.jpg 2x"
   alt="The main coworking area"
@@ -43,6 +44,7 @@ Also, you can benefit from having a professional business address and use our me
 ### Permanent desk
 
 <img
+  class="responsive-img"
   src="/assets/images/escritorio-fijo.jpg"
   srcset="/assets/images/escritorio-fijo@2x.jpg 2x"
   alt="Permanent desk"
@@ -58,6 +60,7 @@ A permanent desk is for your use exclusively, where you can leave your computer 
 ### Hot desk
 
 <img
+  class="responsive-img"
   src="/assets/images/hot-desks.jpg"
   srcset="/assets/images/hot-desks@2x.jpg 2x"
   alt="Hot desks"
@@ -73,6 +76,7 @@ A hot desk, or flexible desk, means you choose from one of the non-permanent des
 ### Meeting room
 
 <img
+  class="responsive-img"
   src="/assets/images/sala-de-reuniones.jpg"
   srcset="/assets/images/sala-de-reuniones@2x.jpg 2x"
   alt="Meeting room"
