@@ -8,7 +8,7 @@
   {% capture height %}507{% endcapture %}
 {% endif %}
 {% capture is_invisible_mobile %}{% endcapture %}
-{% if include.hidden_mobile == "true" %}
+{% if include.invisible_mobile == "true" %}
   {% capture is_invisible_mobile %}is-invisible-mobile{% endcapture %}
 {% endif %}
 <div class="masonry-gallery-tile {{ is_invisible_mobile }}">
