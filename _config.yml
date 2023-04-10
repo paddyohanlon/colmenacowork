@@ -70,6 +70,19 @@ t:
       contacto:
         name: "Contacto"
         url: "/contacto"
+    alt:
+      la-colmena-tiles: Primer plano de nuestro cartel en la puerta principal
+      chill-people: Personas relajándose en la zona de descanso
+      kitchen: Nuestra pequeña cocina
+      office-from-back: El espacio principal de coworking
+      hexagons-wall: Primer plano de hexágonos en la pared
+      bookshelf: Primer plano de la estantería
+      meeting-room-people: Un grupo de personas en una reunión en nuestra sala de reuniones
+      prado-sunset: Atardecer sobre Prado del Rey
+      door-sign: Primer plano de nuestro cartel en la puerta principal
+      chill: La zona de descanso
+      hot-desks-low: Nuestros escritorios compartidos
+      kettle: Primer plano de la tetera, té y taza
   en:
     logo_link_title_attr: "Home"
     toggle_menu_aria_label: "Open or close menu"
@@ -96,3 +109,16 @@ t:
       contacto:
         name: "Contact"
         url: "/contact"
+    alt:
+      la-colmena-tiles: Close up of our front door sign
+      chill-people: People hanging out in the chill out area
+      kitchen: Our little kitchen
+      office-from-back: The main coworking space
+      hexagons-wall: Close up of hexagons on wall
+      bookshelf: Close up of the bookshelf
+      meeting-room-people: A group of people having a meeting in our meeting room
+      prado-sunset: Sunset over Prado del Rey
+      door-sign: Close up of our front door sandwich board
+      chill: The chill out area
+      hot-desks-low: Our hot desks
+      kettle: Close up of the kettle, tea and mug

@@ -137,8 +137,7 @@ blockquote {
 .container {
   margin-left: auto;
   margin-right: auto;
-  max-width: 600px;
-  padding: 0 1em;
+  max-width: 600px; 
 
   &.is-wide {
     max-width: 750px;
@@ -464,7 +463,7 @@ iframe[src*="youtube-nocookie.com"] {
   text-align: center;
   margin: 0 auto;
   padding: 0 10px;
-  font-size: 13px;
+  font-size: 14px;
 
   @media only screen and (min-width: $break-468) {
     font-size: 20px;
@@ -533,9 +532,13 @@ iframe[src*="youtube-nocookie.com"] {
 }
 
 .callout-text {
-  font-size: 36px;
+  font-size: 28px;
   font-weight: 700;
   line-height: 1.2;
+
+  @media only screen and (min-width: $break-900) {
+    font-size: 36px;
+  }
 }
 
 .text-background-gradient {
@@ -546,7 +549,7 @@ iframe[src*="youtube-nocookie.com"] {
   -webkit-box-decoration-break: clone;
 }
 
-.section-white {
+.offer-section-shell {
   background-color: var(--color-yellow);
   color: var(--color-black);
   overflow: hidden;
@@ -682,15 +685,20 @@ iframe[src*="youtube-nocookie.com"] {
 
 .faq-summary {
   cursor: pointer;
+  display: list-item;
   list-style: none; // hide triangle
   position: relative;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
 
   &::before {
     color: var(--color-yellow);
     content: "+";
     position: absolute;
     left: 0;
-    top: 1px;
+    top: -1px;
     font-size: 1.9rem;
     line-height: 1;
   }

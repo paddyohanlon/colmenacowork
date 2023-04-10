@@ -7,11 +7,15 @@
 {% if include.type == "portrait" %}
   {% capture height %}507{% endcapture %}
 {% endif %}
-<div class="masonry-gallery-tile">
+{% capture is_invisible_mobile %}{% endcapture %}
+{% if include.hidden_mobile == "true" %}
+  {% capture is_invisible_mobile %}is-invisible-mobile{% endcapture %}
+{% endif %}
+<div class="masonry-gallery-tile {{ is_invisible_mobile }}">
   <img 
     src="/assets/images/{{ include.img_base_name }}-380x{{ height }}.jpg"
     srcset="/assets/images/{{ include.img_base_name }}-380x{{ height }}.jpg 2x"
-    alt="{{ include.alt }}"
+    alt="{{ site.t[page.lang].alt.[include.img_base_name] }}"
     loading="lazy"
     width="380"
     height="{{ height }}"
