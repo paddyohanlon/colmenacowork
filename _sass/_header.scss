@@ -1,10 +1,11 @@
 .header {
   background-color: var(--color-yellow);
-  margin-bottom: 2em;
   padding: 10px 16px 1rem 16px;
   clip-path: polygon(0 0, 100% 0, 100% calc(100% - 2vh), 0 100%);
+  position: relative;
+  z-index: 1;
 
-  @media only screen and (min-width: $break-medium) {
+  @media only screen and (min-width: $break-900) {
     display: flex;
   }
 
@@ -15,7 +16,7 @@
 
 // logo
 .logo {
-  @media only screen and (min-width: $break-medium) {
+  @media only screen and (min-width: $break-900) {
     margin-right: 2em;
   }
 
@@ -31,7 +32,7 @@
   padding-left: 37px;
   width: 100%;
 
-  @media only screen and (min-width: $break-medium) {
+  @media only screen and (min-width: $break-900) {
     display: flex;
     justify-content: space-between;
     margin-left: 0;
@@ -53,7 +54,7 @@
   align-items: center;
   height: 100%;
 
-  @media only screen and (min-width: $break-medium) {
+  @media only screen and (min-width: $break-900) {
     margin-right: 3em;
   }
 }
@@ -80,7 +81,7 @@
   right: 0;
   top: 0;
 
-  @media only screen and (min-width: $break-medium) {
+  @media only screen and (min-width: $break-900) {
     display: none;
   }
 }

@@ -1,0 +1,30 @@
+.masonry-gallery {
+  margin: 5em 0;
+
+  @media only screen and (min-width: $break-468) {
+    column-count: 2;
+    column-gap: var(--masonry-gap);
+    margin-left: var(--masonry-gap);
+    margin-right: var(--masonry-gap);
+  }
+
+  @media only screen and (min-width: $break-768) {
+    column-count: 3;
+  }
+
+  @media only screen and (min-width: $break-900) {
+    column-count: 4;
+  }
+
+  img {
+    margin: 0 auto;
+    max-width: 100%;
+    display: block;
+    height: auto;
+  }
+}
+
+.masonry-gallery-tile {
+  break-inside: avoid;
+  margin-bottom: var(--masonry-gap);
+}

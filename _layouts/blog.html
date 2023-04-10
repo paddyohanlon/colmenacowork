@@ -2,19 +2,21 @@
 layout: default
 ---
 
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+<div class="container blog-template">
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
 
-  {% assign posts=site.posts | where:"lang", page.lang %}
+    {% assign posts=site.posts | where:"lang", page.lang %}
 
-  <div>
-    {% for post in posts %}
-    <article class="post-preview">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </article>
-    {% endfor %}
-  </div>
-</article>
+    <div>
+      {% for post in posts %}
+      <article class="post-preview">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+      </article>
+      {% endfor %}
+    </div>
+  </article>
+</div>

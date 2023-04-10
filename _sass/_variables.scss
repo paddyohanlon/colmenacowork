@@ -12,6 +12,8 @@
 
   --hexagon: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
   --hexagon-width-ratio: 1.1547005;
+
+  --masonry-gap: 1rem;
 }
 
 $typeface-body: helvetica, arial, sans-serif;
@@ -27,5 +29,7 @@ $border-radius: 3px;
 $hover-transition-time: 0.25s;
 
 // Breakpoints
-$break-medium-max: 899px;
-$break-medium: 900px;
+$break-900-max: 899px;
+$break-900: 900px;
+$break-768: 768px;
+$break-468: 468px;

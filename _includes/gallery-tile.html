@@ -1,0 +1,19 @@
+{% if include.type == "square" %}
+  {% capture height %}380{% endcapture %}
+{% endif %}
+{% if include.type == "landscape" %}
+  {% capture height %}285{% endcapture %}
+{% endif %}
+{% if include.type == "portrait" %}
+  {% capture height %}507{% endcapture %}
+{% endif %}
+<div class="masonry-gallery-tile">
+  <img 
+    src="/assets/images/{{ include.img_base_name }}-380x{{ height }}.jpg"
+    srcset="/assets/images/{{ include.img_base_name }}-380x{{ height }}.jpg 2x"
+    alt="{{ include.alt }}"
+    loading="lazy"
+    width="380"
+    height="{{ height }}"
+  />
+</div>

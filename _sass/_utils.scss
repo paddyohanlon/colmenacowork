@@ -9,6 +9,23 @@
   max-width: 100%;
 }
 
+.is-yellow-text {
+  color: var(--color-yellow);
+}
+
+.is-centered-text {
+  text-align: center;
+}
+
+.has-bottom-margin {
+  margin-bottom: 4rem;
+}
+
+.has-side-padding {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 @mixin skip-link {
   -webkit-clip-path: polygon(0 0, 0 0, 0 0, 0 0);
   clip-path: polygon(0 0, 0 0, 0 0, 0 0);
@@ -37,7 +54,7 @@
 }
 
 .is-invisible-mobile {
-  @media only screen and (max-width: $break-medium-max) {
+  @media only screen and (max-width: $break-900-max) {
     @include sr-only;
   }
 }
