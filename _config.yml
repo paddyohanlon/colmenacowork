@@ -67,6 +67,9 @@ t:
       blog:
         name: "Blog"
         url: "/blog"
+      faq:
+        name: "Preguntas Frecuentes"
+        url: "/#faq"
       contacto:
         name: "Contacto"
         url: "/contacto"
@@ -106,6 +109,9 @@ t:
       blog:
         name: "Blog"
         url: "/en/blog"
+      faq:
+        name: "FAQ"
+        url: "/en/#faq"
       contacto:
         name: "Contact"
         url: "/contact"

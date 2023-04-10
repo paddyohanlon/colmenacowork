@@ -7,7 +7,7 @@ lang: en
 ref: precios
 ---
 
-<p class="iva-noticia">All prices are without IVA.</p>
+<p class="is-italic-text">All prices are without IVA.</p>
 
 <div class="servicio escritorio-fijo">
   <div>
@@ -45,7 +45,7 @@ ref: precios
       loading="lazy"
     />
     <p>
-      A hot desk is one chosen from one of the non-permenant desks. The desk can vary depending on availability on the day, and you need to take your stuff home with you.
+      A hot desk is one chosen from one of the non-permenant desks. The desk can vary depending on availability on the day.
     </p>
     <p>
       With this option you have access to the space during our working hours. Our office hours are Monday to Friday, 8am to 8pm.
