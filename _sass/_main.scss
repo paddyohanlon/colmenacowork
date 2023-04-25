@@ -1,11 +1,11 @@
 /* oswald-600 - latin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Oswald';
+  font-family: "Oswald";
   font-style: normal;
   font-weight: 600;
-  src: url('../fonts/oswald-v49-latin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+ */
-       url('../fonts/oswald-v49-latin-600.woff') format('woff'); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  src: url("../fonts/oswald-v49-latin-600.woff2") format("woff2"),
+    /* Chrome 36+, Opera 23+, Firefox 39+ */ url("../fonts/oswald-v49-latin-600.woff") format("woff"); /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+ */
 }
 
 html {
@@ -137,7 +137,7 @@ blockquote {
 .container {
   margin-left: auto;
   margin-right: auto;
-  max-width: 600px; 
+  max-width: 600px;
 
   &.is-wide {
     max-width: 750px;
@@ -171,9 +171,16 @@ a.button {
   cursor: pointer;
 
   &:hover {
-    background: var(--color-white);
+    background: transparent;
+    // background: var(--color-white);
+    border-color: var(--color-brand);
     color: var(--color-brand);
   }
+}
+
+.cta-button,
+a.cta-button {
+  margin: 1.5rem 0;
 }
 
 .button-light,
@@ -248,7 +255,6 @@ a.button-light {
   width: calc(var(--hex-size) * var(--hexagon-width-ratio));
 
   img {
-
   }
 }
 
@@ -409,15 +415,6 @@ a.button-light {
   }
 }
 
-.iva-noticia {
-  text-align: center;
-  font-style: italic;
-}
-
-.servicio-incluye {
-  font-style: italic;
-}
-
 iframe[src*="youtube-nocookie.com"] {
   width: 100%;
   height: auto;
@@ -459,7 +456,7 @@ iframe[src*="youtube-nocookie.com"] {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(0,0,0,.6);
+  background: rgba(0, 0, 0, 0.6);
   text-align: center;
   margin: 0 auto;
   padding: 0 10px;
@@ -476,7 +473,7 @@ iframe[src*="youtube-nocookie.com"] {
     bottom: auto;
     left: 50%;
     top: 50%;
-    translate: -50% -50%; 
+    translate: -50% -50%;
   }
 }
 
@@ -556,6 +553,7 @@ iframe[src*="youtube-nocookie.com"] {
   position: relative;
   padding: 1rem;
 
+  h1,
   h2,
   h3 {
     color: var(--color-black);
@@ -567,7 +565,8 @@ iframe[src*="youtube-nocookie.com"] {
 }
 
 .offer-section {
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
   max-width: 568px;
   position: relative;
   z-index: 10;
@@ -578,7 +577,8 @@ iframe[src*="youtube-nocookie.com"] {
 }
 
 .offer-img-copy-grid,
-.offer-copy-img-grid {
+.offer-copy-img-grid,
+.offer-copy-copy-grid {
   @media only screen and (min-width: $break-900) {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -586,17 +586,26 @@ iframe[src*="youtube-nocookie.com"] {
 }
 
 .offer-img-copy-grid {
-  grid-template-areas:
-      "img copy";
+  grid-template-areas: "img copy";
 }
 
 .offer-copy-img-grid {
-  grid-template-areas:
-      "copy img";
+  grid-template-areas: "copy img";
+}
+
+.offer-copy-copy-grid {
+  grid-template-areas: "copy copy-b";
 }
 
 .offer-img {
   grid-area: img;
+
+  img {
+    display: block;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
 }
 
 .offer-copy {
@@ -609,6 +618,10 @@ iframe[src*="youtube-nocookie.com"] {
     margin: 2rem 2rem 0;
     padding: 1rem;
   }
+}
+
+.offer-copy-b {
+  grid-area: copy-b;
 }
 
 .offer-title {
@@ -664,7 +677,7 @@ iframe[src*="youtube-nocookie.com"] {
 .faq {
   margin: 0 auto;
   max-width: 850px;
-  padding:  5rem 1rem;
+  padding: 5rem 1rem;
 }
 
 .faq-title {
