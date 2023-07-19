@@ -58,6 +58,15 @@
       {{ site.t[page.lang].illustrations_by }} <a href="https://alfonsobuendia.blogspot.com/">Alfonso Buendía</a>
     </div>
     {%- endif %}
-    <div class="copyright">&copy; {{ 'now' | date: "%Y" }} La Colmena Coworking</div>
+    <div class="copyright">
+      &copy; {{ 'now' | date: "%Y" }} La Colmena Coworking |
+      <a href="{{ site.t[page.lang].legal_menu.['cookies'].url }}"
+        >{{ site.t[page.lang].legal_menu.['cookies'].name }}</a
+      >
+      |
+      <a href="{{ site.t[page.lang].legal_menu.['privacidad'].url }}"
+        >{{ site.t[page.lang].legal_menu.['privacidad'].name }}</a
+      >
+    </div>
   </div>
 </footer>

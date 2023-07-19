@@ -73,6 +73,13 @@ t:
       contacto:
         name: "Contacto"
         url: "/contacto"
+    legal_menu:
+      cookies:
+        name: "Cookies"
+        url: "/cookies"
+      privacidad:
+        name: "Política de Privacidad"
+        url: "/politica-de-privacidad"
     alt:
       la-colmena-tiles: Primer plano de nuestro cartel en la puerta principal
       chill-people: Personas relajándose en la zona de descanso
@@ -115,6 +122,13 @@ t:
       contacto:
         name: "Contact"
         url: "/contact"
+    legal_menu:
+      cookies:
+        name: "Cookies"
+        url: "/en/cookies"
+      privacidad:
+        name: "Privacy Policy"
+        url: "/privacy-policy"
     alt:
       la-colmena-tiles: Close up of our front door sign
       chill-people: People hanging out in the chill out area
