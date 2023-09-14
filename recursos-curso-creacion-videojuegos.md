@@ -31,7 +31,7 @@ ref: videojuegos
 
 ### Código
 
-```cs
+{% highlight csharp %}
 // PlayerController.cs
 using System.Collections;
 using System.Collections.Generic;
@@ -74,4 +74,4 @@ public class PlayerController : MonoBehaviour
         controller.SimpleMove(forward * speed * moveSpeed);
     }
 }
-```
+{% endhighlight %}

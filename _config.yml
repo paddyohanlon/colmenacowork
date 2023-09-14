@@ -124,7 +124,7 @@ t:
         url: "/en/#faq"
       eventos:
         name: "Events"
-        url: "/events"
+        url: "/eventos"
       contacto:
         name: "Contact"
         url: "/contact"
