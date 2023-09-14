@@ -70,6 +70,9 @@ t:
       faq:
         name: "Preguntas Frecuentes"
         url: "/#faq"
+      eventos:
+        name: "Eventos"
+        url: "/eventos"
       contacto:
         name: "Contacto"
         url: "/contacto"
@@ -119,6 +122,9 @@ t:
       faq:
         name: "FAQ"
         url: "/en/#faq"
+      eventos:
+        name: "Events"
+        url: "/events"
       contacto:
         name: "Contact"
         url: "/contact"

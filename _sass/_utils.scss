@@ -21,15 +21,20 @@
   font-style: italic;
 }
 
-.has-top-margin {
+// Trying some Tailwind inspiration (1 = 4px, 0.25rem)
+.mt-8 {
+  margin-top: 2rem;
+}
+
+.mt-16 {
   margin-top: 4rem;
 }
 
-.has-bottom-margin {
+.mb-16 {
   margin-bottom: 4rem;
 }
 
-.has-side-padding {
+.mx-4 {
   padding-left: 1rem;
   padding-right: 1rem;
 }
