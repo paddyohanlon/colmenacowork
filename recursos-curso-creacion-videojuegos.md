@@ -21,15 +21,57 @@ ref: videojuegos
 - Crear nuevo proyecto 3D
 - Importar entorno y crear entorno (aprender navigar Unity)
 - Importar judagor y añadir texturas y Character Controller (colisionador y SimpleMove)
-- Crear un archivo `PlayerController.cs`:
-  - Hacer `Debug.Log`
-  - Hacer movimiento vertical (cambiar el color en Playmode)
-  - Hacer rotación
-  - Hacer variables para velocidad y rotación
-  - Conectar animaciones
-  - Mover cámara con jugador
 
-### Código
+## Clase 2
+
+[Vídeo clase 2](https://youtu.be/WbzZqwItE90)
+
+- Cambiar la posición del Character Controller (height: 1, Center Y: 0.5). Así el colisionador (Collider) cubre el personaje.
+- Añadir un script al personaje llamada PlayerController.
+- Encuentra el script en la carpeta Assets, en la pantalla Project, y ábrelo (va a abrirse en Visual Studio automáticamente).
+
+Ve que ya contiene este código:
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+```
+
+- Pon `Debug.Log("Start!");` en `Start() { ... }`. y observa el efecto en la consola (Console).
+- Pon este código en `Update() { ... }`. y observa el efecto en la consola (Console).:
+
+```csharp
+float speed = Input.GetAxis("Vertical");
+
+if (speed != 0) // el jugador se mueve
+{
+    Debug.Log(speed);
+}
+```
+
+- Hacer movimiento vertical (cambiar el color en Playmode)
+- Hacer rotación
+- Hacer variables para velocidad y rotación
+- Conectar animaciones (Añadir controller de animación)
+- Mover cámara con jugador
+
+### Código Completo
 
 {% highlight csharp %}
 // PlayerController.cs

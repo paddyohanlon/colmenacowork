@@ -1,4 +1,4 @@
-const version = "V18";
+const version = "V19";
 const staticCacheName = version + "staticfiles";
 const imageCacheName = "images";
 const pagesCacheName = "pages";
