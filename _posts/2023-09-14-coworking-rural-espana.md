@@ -36,6 +36,16 @@ Un recurso increíble para obtener información sobre todos los aspectos del cow
 
 Worklife es el único otro coworking rural (además de La Colmena) del que tenemos conocimiento en la Sierra de Cádiz. Si conoces otro, [háznoslo saber](/contacto)! Nos encantaría conectar.
 
+### Centros Guadalinfo Vuela
+
+Guadalinfo está llevando a cabo un proyecto: **[Estrategia Guadalinfo Vuela 22-25](https://vuela.guadalinfo.es/), para la transformación digital de los pueblos andaluces**:
+
+> Los nuevos Puntos Vuela de Guadalinfo ofrecen una experiencia digital más fácil, más útil, más completa y más humana. Se trata de espacios inteligentes atendidos por profesionales, de manera que los ciudadanos solo tienen que preocuparse de hacer lo que deseen o necesiten: aprender, utilizar servicios electrónicos (salud, banca, justicia), realizar trámites cotidianos, construir con tecnología emergente y conectarse.
+
+Sus servicios incluyen WiFi gratuito y, en algunos centros, mesas para trabajo remoto y espacios de coworking. Hay un centro Guadalinfo abierto en Prado del Rey, ubicado en la biblioteca.
+
+Lee [Huelva planea abrir 46 centros Guadalinfo Vuela en 2023](https://www.huelvahoy.com/articulo/huelva/antonio-sanz-visita-diputacion-huelva-donde-mantendra-reunion-trabajo-presidente-david-toscano/20230915113219281401.html).
+
 ### Centro de Innovación Social y Digital de Benarrabá
 
 Benarrabá, un pequeño pueblo en la Serranía de Ronda, está lanzando un [Centro de Innovación Social y Digital](https://www.benarraba.es/14228/centro-de-innovacion-social-y-digital-de-benarraba).

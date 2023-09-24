@@ -37,6 +37,16 @@ An incredible resource for information about all aspects of coworking in Spain i
 
 Worklife is the only other rural coworking (in addition to La Colmena) we're aware of in the Sierra de Cadiz. If you know of another, [let us know](/contact)! We'd love to connect.
 
+### Guadalinfo Vuela Centres
+
+Guadalinfo is running a project **[Guadalinfo Vuela](https://vuela.guadalinfo.es/) Strategy 22-25, for the digital transformation of Andalusian villages**:
+
+> The new Guadalinfo Fly Points provide an easier, more useful, more complete, and more human digital experience. These are smart spaces attended by professionals so that citizens only have to worry about doing what they want or need to do: learn, use electronic services (health, banking, justice), carry out daily procedures, build with emerging technology, connect.
+
+Their services include free WiFi and remote working and coworking desks in some centres. A Guadalinfo centre is open in Prado del Rey in the library.
+
+Read [Huelva plans to open 46 Guadalinfo Vuela centres in 2023](https://www.huelvahoy.com/articulo/huelva/antonio-sanz-visita-diputacion-huelva-donde-mantendra-reunion-trabajo-presidente-david-toscano/20230915113219281401.html).
+
 ### Social and Digital Innovation Centre of Benarrabá
 
 Benarrabá, a small village in the Serrania de Ronda, is launching a [Social and Digital Innovation Centre](https://www.benarraba.es/14228/centro-de-innovacion-social-y-digital-de-benarraba).
