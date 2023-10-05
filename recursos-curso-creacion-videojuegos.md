@@ -112,6 +112,111 @@ public class VasoController : MonoBehaviour
 }
 {% endhighlight %}
 
+### Clase 4
+
+[Video 4](https://youtu.be/tSPLDbCwTf8)
+
+Esta semana vamos a añadir un UI simple, mostrando puntos por cada object que colectamos.
+
+Crear nuevo objeto de juego: UI > Texto - TextMeshPro
+Haz doble clic en el objeto de texto para editar, luego mueve el texto a la parte superior de la pantalla.
+Establece el punto de anclaje en la parte superior.
+Juega el juego y observa el texto.
+Agrega el script ScoreManager al objeto canvas.
+Añade código:
+
+{% highlight csharp %}
+// ScoreManager.cs
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+
+public class ScoreManager : MonoBehaviour
+{
+
+    public TMP_Text scoreText;
+
+    int score = 0;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        scoreText.SetText("Items: " + score);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
+{% endhighlight %}
+
+Arrastra el objeto de texto al campo.
+Añade un método para sumar puntos.
+
+{% highlight csharp %}
+// ScoreManager.cs
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using TMPro;
+
+public class ScoreManager : MonoBehaviour
+{
+    public static ScoreManager instance; // añadir
+
+    public TMP_Text scoreText;
+
+    int score = 0;
+
+    // añadir
+    private void Awake()
+    {
+        instance = this;
+    }
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        scoreText.SetText("Items: " + score);
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+
+    // añadir
+    public void AddPoint()
+    {
+        score += 1;
+        scoreText.SetText("Items: " + score);
+    }
+}
+{% endhighlight %}
+
+Actualiza el script del contenedor para añadir un punto:
+
+{% highlight csharp %}
+// VasoController
+// ...
+void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            gameObject.SetActive(false);
+
+            ScoreManager.instance.AddPoint(); // añadir
+        }
+    }
+// ...
+{% endhighlight %}
+
+Now play the game and you should get a point when you collect an item.
+
 ### Código Completo
 
 {% highlight csharp %}
