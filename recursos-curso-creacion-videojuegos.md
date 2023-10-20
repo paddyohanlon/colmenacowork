@@ -7,6 +7,10 @@ lang: es
 ref: videojuegos
 ---
 
+## Demo del proyecto completo
+
+[Demo videojuego](/videojuegos/paddy). Se necesita teclador. Use las flechas para mover el personaje y colectar objetos.
+
 ## Clase 1
 
 - Conectar al Wifi
