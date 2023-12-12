@@ -59,7 +59,7 @@ t:
         name: "Inicio"
         url: "/"
       quienes_somos:
-        name: "Quiénes somos"
+        name: "Quiénes Somos"
         url: "/quienes-somos"
       precios:
         name: "Precios"

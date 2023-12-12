@@ -1,7 +1,10 @@
 items:
   - question: What is a coworking space?
-    answer: > 
+    answer: >
       At its simplest, a coworking space is an open-plan shared office space where anyone can rent desk space and come to work. More than that, it's a place to create community, share ideas and support each other. Read our blog post <a href="/coworking-what-is-it-and-how-does-it-work">Coworking: what is it and how does it work?</a>
+  - question: What can I do in Prado del Rey?
+    answer: >
+      <a href="/things-to-do-in-prado-del-rey">This post</a> shares our favourite restaurants, cheeses, bakery, outdoor activities, and more. Prado del Rey and the Sierra de Grazalema have a lot to offer. These recommendations are just a tiny personal taster.
   - question: What are the benefits of using a coworking space?
     answer: >
       Coworking spaces offer a better work-life balance, a flexible, collaborative environment with opportunities for networking, increased productivity, cost savings compared to traditional office space, access to resources and amenities, and a professional meeting setting.
@@ -85,4 +88,4 @@ items:
       We can arrange printing.
   - question: Do you have standing desks?
     answer: >
-      Not currently, but we can find a solution if you really would like one. <a href="/contact">Let us know!</a> 
+      Not currently, but we can find a solution if you really would like one. <a href="/contact">Let us know!</a>

@@ -1,7 +1,10 @@
 items:
   - question: ¿Qué es un espacio de coworking?
-    answer: > 
+    answer: >
       En su forma más simple, un espacio de coworking es una oficina compartida de diseño abierto donde cualquiera puede alquilar un escritorio y venir a trabajar. Más que eso, es un lugar para crear comunidad, compartir ideas y apoyarse mutuamente. Lee nuestra blog <a href="/coworking-que-es-y-como-funciona">Coworking: ¿qué es y cómo funciona?</a>
+  - question: ¿Qué hacer en Prado del Rey?
+    answer: >
+      <a href="/que-hacer-en-prado-del-rey">Esta publicación</a> comparte nuestros restaurantes favoritos, quesos, panadería, actividades al aire libre, y más. Prado del Rey y la Sierra de Grazalema tienen mucho que ofrecer. Estas recomendaciones son solo una pequeña muestra personal.
   - question: ¿Cuáles son los beneficios de usar un espacio de coworking?
     answer: >
       Los espacios de coworking ofrecen un mejor equilibrio entre el trabajo y la vida personal, un entorno flexible y colaborativo con oportunidades de establecer contactos, mayor productividad, ahorro de costes en comparación con el espacio de oficina tradicional, acceso a recursos y comodidades, y un entorno de reuniones profesional.
@@ -88,4 +91,4 @@ items:
       Podemos organizar la impresión.
   - question: ¿Tienen escritorios de pie?
     answer: >
-      No actualmente, pero podemos encontrar una solución si realmente desea uno. <a href="/contacto">¡Háganoslo saber!</a> 
+      No actualmente, pero podemos encontrar una solución si realmente desea uno. <a href="/contacto">¡Háganoslo saber!</a>
