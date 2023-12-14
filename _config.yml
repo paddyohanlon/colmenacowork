@@ -18,10 +18,10 @@ defaults:
       layout: "post"
       excerpt_separator: <!--more-->
 
-tagline: "Espacio de Coworking en La Sierra de Cádiz"
+tagline: "Espacio de Coworking Rural en La Sierra de Cádiz"
 permalink: /:title
 
-description: "La Colmena es un espacio de coworking en Prado del Rey, en la Sierra de Cádiz."
+description: "La Colmena es un espacio de coworking rural en Prado del Rey, Sierra de Cádiz."
 # English description in /en/index.md
 
 twitter:
