@@ -28,6 +28,12 @@ El mundo del coworking rural en España está en auge. Nuevos espacios innovador
 
 Un recurso increíble para obtener información sobre todos los aspectos del coworking en España es el boletín semanal de [CoworkingSpain](https://coworkingspain.es/). El [boletín](https://landing.mailerlite.com/webforms/landing/s7g6n6) solo está disponible en España. Proporciona las noticias más completas sobre coworking que he encontrado en España.
 
+## Coworking rural en las Noticias
+
+A continuación te detallamos algunas publicaciones en medios que hemos encontrado relacionadas con el coworking rural:
+
+- [Qué es el 'coworking' rural y cómo puede ayudarte a ser más eficiente en tu trabajo mientras mejora tu vida](https://es-us.finanzas.yahoo.com/noticias/que-es-el-coworking-rural-y-como-puede-ayudarte-a-ser-mas-eficiente-en-tu-trabajo-mientras-mejora-tu-vida-124312608.html?guccounter=2)
+
 ## Otros Coworkings Rurales Cercanos
 
 ### Worklife

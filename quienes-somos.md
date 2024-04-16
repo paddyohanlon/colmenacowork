@@ -37,7 +37,7 @@ La Colmena fue creado por Francesco y Paddy, con el apoyo de familia y amigos.
 
 ## Nuestra historia
 
-Empezó cómo una idea en 2019. Fran y yo queríamos encontrar un sitio para trabajar, para ayudarnos a mantener la vida familiar y de trabajo un poquito más separadas. Y en lugar de simplemente alquilar una oficina para nosotros dos, decidimos crear un espacio de coworking.
+Empezó como una idea en 2019. Fran y yo queríamos encontrar un sitio para trabajar, para ayudarnos a mantener la vida familiar y de trabajo un poquito más separadas. Y en lugar de simplemente alquilar una oficina para nosotros dos, decidimos crear un espacio de coworking.
 
 Pasamos un año mirando locales con potencial. Una opción tenía buena iluminación, pero era pequeña. Otra tenía una superficie funcional, pero resulta que también tenía averías serias.
 

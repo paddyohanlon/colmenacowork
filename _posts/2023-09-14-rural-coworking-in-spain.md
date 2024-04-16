@@ -29,6 +29,12 @@ The world of rural coworking in Spain is humming. New innovative spaces are regu
 
 An incredible resource for information about all aspects of coworking in Spain is the weekly newsletter by [CoworkingSpain](https://coworkingspain.es/en). The [newsletter](https://landing.mailerlite.com/webforms/landing/s7g6n6) is only available in Spain. It provides the most comprehensive coworking news I've found in Spain.
 
+## Rural Coworking in the News
+
+Below is a list of some publications in the media we've found related to rural coworking:
+
+- [Qué es el 'coworking' rural y cómo puede ayudarte a ser más eficiente en tu trabajo mientras mejora tu vida](https://es-us.finanzas.yahoo.com/noticias/que-es-el-coworking-rural-y-como-puede-ayudarte-a-ser-mas-eficiente-en-tu-trabajo-mientras-mejora-tu-vida-124312608.html?guccounter=2)
+
 ## Other Rural Coworkings Close By
 
 ### Worklife
