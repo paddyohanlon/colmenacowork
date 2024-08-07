@@ -39,9 +39,19 @@ Below is a list of some publications in the media we've found related to rural c
 
 ### Worklife
 
-[Worklife](https://www.worklifecoliving.com/) is a coworking and coliving that opened in 2023. It's situated in a beautifully restored building in the centre of Grazalema. Grazalema is considered one of the most beautiful villages in Spain.
+[Worklife](https://www.worklifecoliving.com/) is a rural coworking and coliving that opened in 2023. It's situated in a beautifully restored building in the centre of Grazalema. Grazalema is considered one of the most beautiful villages in Spain.
 
-Worklife is the only other rural coworking (in addition to La Colmena) we're aware of in the Sierra de Cadiz. If you know of another, [let us know](/contact)! We'd love to connect.
+<img
+    class="responsive-img bg-white"
+    src="/assets/images/worklife-logo.webp"
+    srcset="/assets/images/worklife-logo@2x.webp 2x"
+    alt="Logo of the rural coworking and coliving Worklife"
+    height="139"
+    width="150"
+    loading="lazy"
+  />
+
+Worklife is the only other rural coworking (in addition to [La Colmena](/en/)) we're aware of in the Sierra de Cadiz. If you know of another, [let us know](/contact)! We'd love to connect.
 
 ### Guadalinfo Vuela Centres
 

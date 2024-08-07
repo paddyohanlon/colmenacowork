@@ -20,6 +20,7 @@ ref: cosas-que-hacer
 </figure>
 
 Esta publicación comparte nuestros restaurantes favoritos, quesos, panadería, actividades al aire libre, y más. Prado del Rey y la Sierra de Grazalema tienen mucho que ofrecer. Estas recomendaciones son solo una pequeña muestra personal.
+{: .large }
 
 <!--more-->
 

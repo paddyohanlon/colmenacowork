@@ -21,6 +21,9 @@ canonical_url: https://colmenacowork.es/estudio-muestra-que-el-coworking-aumenta
 </figure>
 
 A study by Marko Orel, Martin Lukes, and Jan Zouhar, published in the [Journal of Small Business and Enterprise Development](https://www.emerald.com/insight/content/doi/10.1108/JSBED-04-2023-0151/full/html) in June 2024, sheds light on how coworking spaces play a pivotal role in supporting remotely working micro-entrepreneurs. Let's delve into the key findings and practical implications from this insightful research.
+{: .large }
+
+<!--more-->
 
 ## The Heart of the Study
 

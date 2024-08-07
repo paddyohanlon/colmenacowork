@@ -40,7 +40,17 @@ A continuación te detallamos algunas publicaciones en medios que hemos encontra
 
 [Worklife](https://www.worklifecoliving.com/) es un espacio de coworking y coliving que abrió en 2023. Está situado en un edificio bellamente restaurado en el centro de Grazalema. Grazalema es considerado uno de los pueblos más bellos de España.
 
-Worklife es el único otro coworking rural (además de La Colmena) del que tenemos conocimiento en la Sierra de Cádiz. Si conoces otro, [háznoslo saber](/contacto)! Nos encantaría conectar.
+<img
+    class="responsive-img bg-white"
+    src="/assets/images/worklife-logo.webp"
+    srcset="/assets/images/worklife-logo@2x.webp 2x"
+    alt="Logo of the rural coworking and coliving Worklife"
+    height="139"
+    width="150"
+    loading="lazy"
+  />
+
+Worklife es el único otro coworking rural (además de [La Colmena](/)) del que tenemos conocimiento en la Sierra de Cádiz. Si conoces otro, [háznoslo saber](/contacto)! Nos encantaría conectar.
 
 ### Centros Guadalinfo Vuela
 

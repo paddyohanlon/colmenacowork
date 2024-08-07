@@ -21,6 +21,7 @@ canonical_url: https://colmenacowork.es/que-hacer-en-prado-del-rey
 </figure>
 
 This post shares our favourite restaurants, cheeses, bakery, outdoor activities, and more. Prado del Rey and the Sierra de Grazalema have a lot to offer. These recommendations are just a tiny personal taster.
+{: .large }
 
 <!--more-->
 

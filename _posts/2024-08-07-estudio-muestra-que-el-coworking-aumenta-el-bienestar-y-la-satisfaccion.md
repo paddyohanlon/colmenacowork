@@ -20,6 +20,9 @@ ref: coworking-aumenta-el-bienestar-y-la-satisfaccion
 </figure>
 
 Un estudio realizado por Marko Orel, Martin Lukes y Jan Zouhar, publicado en el [Journal of Small Business and Enterprise Development](https://www.emerald.com/insight/content/doi/10.1108/JSBED-04-2023-0151/full/html) en junio de 2024, arroja luz sobre cómo los espacios de coworking juegan un papel crucial en el apoyo a los microemprendedores que trabajan de forma remota. Vamos a profundizar en los hallazgos clave y las implicaciones prácticas de esta investigación perspicaz.
+{: .large }
+
+<!--more-->
 
 ## El Corazón del Estudio
 
@@ -61,6 +64,6 @@ Los hallazgos del estudio tienen implicaciones prácticas para varios actores:
 
 Francesco y yo obviamente creemos en el valor del coworking, pero es fascinante y gratificante leer datos que apoyan nuestra experiencia personal.
 
-Personalmente, estaba feliz trabajando en casa hasta que nació mi primera hija, luego rápidamente me di cuenta de que separar el trabajo de la vida familiar sería enormemente beneficioso. Dejar a mi pequeña en la escuela y luego dirigirme a [La Colmena](/en/) para trabajar me ayuda a concentrarme y me da un descanso muy apreciado de las interminables tareas por hacer en casa.
+Personalmente, estaba feliz trabajando en casa hasta que nació mi primera hija, luego rápidamente me di cuenta de que separar el trabajo de la vida familiar sería enormemente beneficioso. Dejar a mi pequeña en la escuela y luego dirigirme a [La Colmena](/) para trabajar me ayuda a concentrarme y me da un descanso muy apreciado de las interminables tareas por hacer en casa.
 
 Si te gustaría probar el coworking, ven a unirte a nosotros por un día sin compromiso y ve si funciona para ti.
