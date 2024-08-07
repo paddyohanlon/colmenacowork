@@ -37,7 +37,6 @@ Hay otros lugares encantadores para comer en Prado del Rey; estos son solo algun
 ### Restaurantes en El Bosque
 
 - Casa de la duende
-- La Divina
 - Mesón-Bar La Peña D'Ely
 
 ## Comida Orgánica Local: Eco Huerta Los Tamayos

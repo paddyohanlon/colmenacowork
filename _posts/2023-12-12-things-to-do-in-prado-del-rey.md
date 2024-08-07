@@ -38,7 +38,6 @@ There are other lovely places to eat in Prado del Rey; these are just some of ou
 ### Restaurants in El Bosque
 
 - Casa de la duende
-- La Divina
 - Mesón-Bar La Peña D'Ely
 
 ## Local Organic Food: Eco Huerta Los Tamayos
@@ -72,7 +71,7 @@ Another nice store and restaurant in El Bosque is [Venta Julián](https://maps.a
 
 El Bosqueño, from El Bosque, is sold in the [Coviran](https://maps.app.goo.gl/T3UXeuasnCzUx1QJ7) supermarkets in Prado del Rey. You could also visit the chees museum in El Bosque. Try the "semi-curado de oveja" (medium-aged sheep cheese), one of my favourites
 
-La Pastora, from the village of Grazalema, sold in Tres Hornos
+La Pastora, from the village of Grazalema, sold in Tres Hornos.
 
 ## Outdoor and Adventure Activities
 
