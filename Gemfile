@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.1.1"
+gem "jekyll", "~> 4.3.4"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -31,3 +31,13 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
+
+# Bundled gems no longer on Ruby 3.4's default load path.
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "erb"
+
+# Stay on libsass-backed converter — sass-converter 3.x (dart-sass) mishandles
+# front matter in this project's SCSS.
+gem "jekyll-sass-converter", "~> 2.2"
